@@ -1,0 +1,832 @@
+year,month,industryvertical,total_funding
+2015,Apr,"Auto Rickshaw based Logistics",64080000
+2015,Apr,"Beauty & Wellness Mobile App",0
+2015,Apr,"business expense management",32040000
+2015,Apr,"Clean Tech",0
+2015,Apr,"Cloud Enterprise Software",384480000
+2015,Apr,"Device Repair Svcs",12816000
+2015,Apr,"Digital / Mobile Wallet",1612573200
+2015,Apr,eCommerce,640800000
+2015,Apr,Ed-Tech,19224000
+2015,Apr,"Ethnic Product eCommerce",1153440000
+2015,Apr,"Fashion ECommerce",224280000
+2015,Apr,"Financial Markets Software",25632000
+2015,Apr,"Food Logistics & Delivery",64080000
+2015,Apr,"Grey collar Job Board",640800000
+2015,Apr,"Hiring Analytics platform",32040000
+2015,Apr,"Hyper-local Online Services",320400000
+2015,Apr,"Hyper-Local Online/Mobile Grocery",640800000
+2015,Apr,"Hyperlocal Mobile Services Marketplace",102528000
+2015,Apr,"Hyperlocal services marketplace",0
+2015,Apr,"Interactive Educational Games",25632000
+2015,Apr,"InteractiveÂ  How-To Guides",57672000
+2015,Apr,"Last Minute Travel Deals mobile marketplace",115344000
+2015,Apr,"Location Based App",64080000
+2015,Apr,"Logistics Tech",32040000
+2015,Apr,"Material Collection & Recycling",256320000
+2015,Apr,"Mobile App Development",768960000
+2015,Apr,"Mobile Food Ordering app",0
+2015,Apr,"Mobile Health Tech",0
+2015,Apr,"On-Demand Handyman Services",0
+2015,Apr,"OnDemandMobile Handyman Services",76896000
+2015,Apr,"Online Certification Courses",961200000
+2015,Apr,"Online Classifieds & Listings",1794240000
+2015,Apr,"Online Food Delivery",128160000
+2015,Apr,"Online Furniture ecommerce",0
+2015,Apr,"Online Grocer",640800000
+2015,Apr,"Online Hotel Booking",64080000
+2015,Apr,"Online Insurance Aggregator",768960000
+2015,Apr,"Online Kitchen Furniture",80100000
+2015,Apr,"Online Pharmacy & Drug DB",384480000
+2015,Apr,"Online Travel Marketplace",512640000
+2015,Apr,"Premium Beverages",128160000
+2015,Apr,"Price Comparison",10573200
+2015,Apr,"Private Coaching Centers",96120000
+2015,Apr,"Restaurant Management Platform",22428000
+2015,Apr,"Restaurant reservation app",0
+2015,Apr,"Restaurant Reviews",1602000000
+2015,Apr,"Robotic Program learning",16020000
+2015,Apr,"Spam Call block App",0
+2015,Apr,"Startup Analytics platform",224280000
+2015,Apr,"Tele-Shopping / eCommerce",1377720000
+2015,Apr,"Travel Entertainment",140976000
+2015,Apr,"Used Gadgets Buy / Refurbishing",64080000
+2015,Apr,"Video Streaming",7689600
+2015,Apr,"Web Content Publishing",12816000
+2015,Aug,"anonymous bulletin board app",0
+2015,Aug,"App based Fitness coaching",0
+2015,Aug,"App securityÂ  testing platform",32040000
+2015,Aug,"Automated Storage & Warehousing Solution",1922400000
+2015,Aug,"Beauty & Lifestyle Mobile Marketplace",128160000
+2015,Aug,"Beauty & Lifestyle platform",0
+2015,Aug,"Big Data & predictive Analysis Platform",0
+2015,Aug,"Car & Bike ecommerce platform",0
+2015,Aug,"Career Community for Women",49341600
+2015,Aug,"Cloud Based Hotel Sales Platform",0
+2015,Aug,"Corporate Wellness App",64080000
+2015,Aug,"Credit Card Fraud protection solutions",480600000
+2015,Aug,"Cross-channel CRM platform",256320000
+2015,Aug,"Crowd funding platform",44856000
+2015,Aug,"Data Analytics Platform",269136000
+2015,Aug,"Deep Learning Cloud Algorithms",64080000
+2015,Aug,"Digital Marketing automation solution",0
+2015,Aug,"Digital Media publishing platform",0
+2015,Aug,ecommerce,5126400
+2015,Aug,"ECommerce Logistics provider",320400000
+2015,Aug,"Ecommerce Marketing Software Platform",32040000
+2015,Aug,"Education Marketplace",0
+2015,Aug,"Energy & Environment Online Marketplace",0
+2015,Aug,"Energy saving solutions provider",0
+2015,Aug,"engineering services company",1281600000
+2015,Aug,"Exam Preparation Platform",14097600
+2015,Aug,"Fashion Discovery platform",961200000
+2015,Aug,"Fashion Search & Review Platform",0
+2015,Aug,"Fast food Chain Franchisee",40370400
+2015,Aug,"Financial Inclusion platform",1602000000
+2015,Aug,"Food Customer analytics platform",19224000
+2015,Aug,"fund raising platform for startups",41652000
+2015,Aug,"Grocery retail Mobile app",0
+2015,Aug,"Home Design & DÃ©cor solutions",512640000
+2015,Aug,"hotel booking app",32040000
+2015,Aug,"Hyper-Local Ecommerce",1025280000
+2015,Aug,"Hyperlocal Handyman services",192240000
+2015,Aug,"Hyperlocal Maintenance, Repair & Cleaning services",153792000
+2015,Aug,"Job Search Platform",32040000
+2015,Aug,"Language Localization Cloud platform",256320000
+2015,Aug,"Location based engagement & rewards platform",0
+2015,Aug,"Logistics service platform",15699600
+2015,Aug,"Logistics Tech Platform",83304000
+2015,Aug,"Loyalty Programs & Reward Points",32040000
+2015,Aug,"Luxury Apparel rental",0
+2015,Aug,"Machine Learning Platform",0
+2015,Aug,"Mobile based PoS solution",1602000000
+2015,Aug,"Mobile Commerce for Farmers",256320000
+2015,Aug,"mobile payment software platform",64080000
+2015,Aug,"mobile social network",16020000
+2015,Aug,"Mutual Fund Investing platform",160200000
+2015,Aug,"On demand cleaning & fixing services",0
+2015,Aug,"On-Demand App based Professional service provider",64080000
+2015,Aug,"On-Demand Beauty Service",25632000
+2015,Aug,"On-Demand Beauty Services",0
+2015,Aug,"On-Demand Delivery Logistics",83304000
+2015,Aug,"on-demand delivery service",19864800
+2015,Aug,"on-demand home beauty and wellness portal",0
+2015,Aug,"on-Demand Washing & Dry-Cleaning",6408000
+2015,Aug,"Online budget hotel chain",1922400000
+2015,Aug,"Online Coffee Delivery platform",19224000
+2015,Aug,"Online Diagnostic Tests Marketplace",9996480
+2015,Aug,"Online Food Community Platform",32040000
+2015,Aug,"Online Furniture Marketplace",1281600000
+2015,Aug,"Online Identity Verification Services platform",0
+2015,Aug,"Online marketplace for Photographers",38448000
+2015,Aug,"Online printing marketplace",16020000
+2015,Aug,"online recipe sharing platform",0
+2015,Aug,"Picture based Social App",6408000
+2015,Aug,"pre-owned Luxury online apparel seller",0
+2015,Aug,"Private Cloud Networks SAAS platform",0
+2015,Aug,"Professional Custom creators Marketplace",16020000
+2015,Aug,"Professional Service Appointment booking service",25632000
+2015,Aug,"QSR Restaurant Chain",10252800
+2015,Aug,"Quick Service Restaurant Chain",102528000
+2015,Aug,"Rental Accomodation finder",0
+2015,Aug,"Restaurant Discount app",25632000
+2015,Aug,"Restaurant Reservation Platform",192240000
+2015,Aug,"Scientific Horoscope Online Assistance platform",0
+2015,Aug,"Self Driven Car rental",0
+2015,Aug,"Self-Storage Spaces",0
+2015,Aug,"solar products and services marketplace",0
+2015,Aug,"Startup Focused Online Publisher",0
+2015,Aug,"Subscription based Online Grocery platform",6408000
+2015,Aug,"Taxi Rental platform",32040000
+2015,Aug,"Tech enabled AC bus service",0
+2015,Aug,"Tech Platform for property brokers",50302800
+2015,Aug,"Tech-enabled learning",0
+2015,Aug,"Travel community platform",0
+2015,Aug,"User Engagment & Analytics platform",615168000
+2015,Aug,"Visual Blogging platform",38448000
+2015,Aug,"Waste Management Solutions",10252800
+2015,Dec,"App based Bus Pooling Services",1281600000
+2015,Dec,"Artificial Intelligence platform",48060000
+2015,Dec,"B2B eCommerce Marketplace",320400000
+2015,Dec,"B2B Merchandize platform",19416240
+2015,Dec,"Bike, Appliances Renting marketplace",0
+2015,Dec,"Brand Licensing Startup",0
+2015,Dec,"Cab search Comparison & Booking platform",12816000
+2015,Dec,"Cab Sharing service Mobile app",6408000
+2015,Dec,"Car Maintenance & Management mobile app",6408000
+2015,Dec,"Chat based personal Assistant App",0
+2015,Dec,"Citizens Engagement Platform",0
+2015,Dec,"Cloud Enterprise Mobility Platform",0
+2015,Dec,"Content Discovery & reward points platform",0
+2015,Dec,"Custom Made furniture e-tailer",288360000
+2015,Dec,"Data Science & UX design Learning platform",108936000
+2015,Dec,"Digital Analytics Platform",32040000
+2015,Dec,"Digital Coupons, Deal & Cashback aggregator app",0
+2015,Dec,"Digital Healthcare",128160000
+2015,Dec,"Digital Media Platform",0
+2015,Dec,"ECommerce platform solutions",0
+2015,Dec,"eCommerce returns etailer",0
+2015,Dec,"ECommerce Website Creation SAAS platform",0
+2015,Dec,"eLearning platform",0
+2015,Dec,"Electric Bike Manufacturers",76896000
+2015,Dec,"End to End reverse logistics Solution platform",128160000
+2015,Dec,"Enterprise Marketing Automation platform",32040000
+2015,Dec,"Event Venue Booking Platform",0
+2015,Dec,"Furniture and appliances rental platform",0
+2015,Dec,"Gourmet Food Discovery & Delivery platform",0
+2015,Dec,"Grocery Delivery platform",64080000
+2015,Dec,"Health, Wellness & Beauty Services App",0
+2015,Dec,"Holiday Resort Chain",0
+2015,Dec,"Home Cooked Food Order & Delivery platform",128160000
+2015,Dec,"Home services marketplace",1441800000
+2015,Dec,"Hyperlocal On-Demand Household Services platform",0
+2015,Dec,"HyperlocalÂ  Grocery Delivery Service",256320000
+2015,Dec,"Indoor Navigation & Analytics Solutions",0
+2015,Dec,"Interface development platform for Government officials",0
+2015,Dec,"International Hiring Platform",12816000
+2015,Dec,"Internet Network Infrastructure Services",32040000
+2015,Dec,"IOT Energy Management Analytics platform",0
+2015,Dec,"Last Minute Hotel Booking App",96120000
+2015,Dec,"Logistics Service Provider Marketplace",128160000
+2015,Dec,"Logistics Services Provider",1922400000
+2015,Dec,"Medical Consultation & Doctor appointment booking platform",32040000
+2015,Dec,"Mobile accessories online store",192240000
+2015,Dec,"Mobile Car Servicing appointment app",32040000
+2015,Dec,"Mobile Fitness App",64080000
+2015,Dec,"Mobile Game development & Design platform",64080000
+2015,Dec,"Mobile Point of Sale solutions",160200000
+2015,Dec,"Mobile Wallet",422928000
+2015,Dec,"Modular Furnishings Marketplace",224280000
+2015,Dec,"New Curation Mobile App",9612000
+2015,Dec,"Nonbanking finance company",192240000
+2015,Dec,"On Demand Mobile app developer",6408000
+2015,Dec,"Online Branded Furniture etailer",320400000
+2015,Dec,"Online Education Information platform",64080000
+2015,Dec,"Online Food ordering & Delivery platform",6408000
+2015,Dec,"Online Freight Services Aggregator",1602000000
+2015,Dec,"Online marketplace for Chef Meals",0
+2015,Dec,"Online Marketplace for Industrial Goods",0
+2015,Dec,"Online Media Publication",0
+2015,Dec,"Online Renting platform",0
+2015,Dec,"Online RTI application services",9612000
+2015,Dec,"Online School for Analytics learning",192240000
+2015,Dec,"Online Shopping Assistant Mobile app",0
+2015,Dec,"Online Wedding Marketplace",1281600000
+2015,Dec,"Performance Optimization Platform for athletes",192240000
+2015,Dec,"Photographer Online search & booking platform",140976000
+2015,Dec,"Picture creation & Social mobile app",22428000
+2015,Dec,"Private Jet Bookings Marketplace",0
+2015,Dec,"Product Learning platform",0
+2015,Dec,"QSR Chain",1922400000
+2015,Dec,"Real Estate focused Tech platform",0
+2015,Dec,"Reward points mobile app",0
+2015,Dec,"Smart Safety Wearable Devices",16020000
+2015,Dec,"Social Fitness platform",0
+2015,Dec,"Social Learning Platform",0
+2015,Dec,"Splitting Bills Mobile App",0
+2015,Dec,"Sports Education Platform",128160000
+2015,Dec,"Supply Chain & Logistics Solutions",640800000
+2015,Dec,"Test Automation SAAS platform",38448000
+2015,Dec,"Transportation & Logistics Platform",358848000
+2015,Dec,"Virtual Health consultation app",76896000
+2015,Dec,"visual search and discovery platform",64080000
+2015,Dec,"Wedding Venues & Vendors Marketplace",64080000
+2015,Dec,"Womens Fashion Wear Portal",0
+2015,Jul,"B2B logistics delivery platform",0
+2015,Jul,"Big Data & Analytics platform",2755440000
+2015,Jul,"Bike Rental Platform",50623200
+2015,Jul,"Budget Accommodation aggregator",192240000
+2015,Jul,"Business intelligence & Analytics",153792000
+2015,Jul,"Business IT Intelligence Services",0
+2015,Jul,"Cab rental Mobile app",0
+2015,Jul,"Casual Dating App",0
+2015,Jul,"Casual Dining restaurant Chain",640800000
+2015,Jul,"Celebrity Fashion Brand",480600000
+2015,Jul,"Chinese food delivery",10765440
+2015,Jul,"Clinical Genomics Provider",1281600000
+2015,Jul,"Contact Center Software Platform",320400000
+2015,Jul,"Coupon Aggregator Platform",1281600
+2015,Jul,"CRM / Analytics platform",64080000
+2015,Jul,"Crowd Funding Platform",44856000
+2015,Jul,"Custom Furniture Marketplace",25311600
+2015,Jul,"Custom Merchandize platform",64080000
+2015,Jul,"Ed-Tech Platform",0
+2015,Jul,"Educational Board Games",10765440
+2015,Jul,"Electric Scooter manufacturer",0
+2015,Jul,"Ethnic Beverages manufacturer",1922400000
+2015,Jul,"Ethnic/ Traditional Fashion Store",0
+2015,Jul,"F&B sector Mobile Payment platform",102528000
+2015,Jul,"Fashion Info Aggregator App",0
+2015,Jul,"Financial Tech",0
+2015,Jul,"Fine Dining Restaurant Chain",1922400000
+2015,Jul,"Fitness Marketplace",64080000
+2015,Jul,"Food Delivery platform",0
+2015,Jul,"Food Discovery App",0
+2015,Jul,"Hasbro Toy Manufacturer",128160000
+2015,Jul,"Health-Tech platform",64080000
+2015,Jul,"Healthcare Mobile App",653616000
+2015,Jul,"Hyper local logistics platform",704880000
+2015,Jul,"Hyperlocal Electronics repair Service",40370400
+2015,Jul,"Hyperlocal food & grocery store",83304000
+2015,Jul,"Hyperlocal Goods marketplace",0
+2015,Jul,"Hyperlocal Grocery App",32040000
+2015,Jul,"Hyperlocal Handyman Services",128160000
+2015,Jul,"Industrial Supplies B2B ecommerce",6408000
+2015,Jul,"Innovative Water Solutions",76896000
+2015,Jul,"Internet of Things platform",10316880
+2015,Jul,"IT infrastructure & Data Center services",865080000
+2015,Jul,"Language Learning App",416520000
+2015,Jul,"Live video streaming app",0
+2015,Jul,"Logistics Automation Platform",0
+2015,Jul,"Luxury Rental Homes",817020000
+2015,Jul,"Medical Tech Instruments",153792000
+2015,Jul,"Mobile Fitness Marketplace",0
+2015,Jul,"Mobile Point of Sale payment solution",1602000000
+2015,Jul,"News Aggregator mobile app",1281600000
+2015,Jul,"On-Demand Car services App",0
+2015,Jul,"On-Demand Laundry & Dry cleaning App",0
+2015,Jul,"Online budget hotel chain",961200000
+2015,Jul,"Online comparison engine",640800000
+2015,Jul,"Online Curated Holiday package bookings",0
+2015,Jul,"Online Finance lending platform",640800000
+2015,Jul,"Online Food-Tech Platform",30117600
+2015,Jul,"Online Grocers",20505600
+2015,Jul,"Online Grocery Delivery",0
+2015,Jul,"Online Hiring Platform",0
+2015,Jul,"Online Jewellery Store",1038096000
+2015,Jul,"Online Jewelry Store",38448000
+2015,Jul,"Online Logistics Platform",0
+2015,Jul,"Online Study Notes Marketplace",0
+2015,Jul,"Online Tailoring Services",0
+2015,Jul,"Organic Food ecommerce",64080000
+2015,Jul,"P2P Pre-owned goods marketplace",0
+2015,Jul,"Payment Solutions platform",310788000
+2015,Jul,"Physical Storage warehouses",19224000
+2015,Jul,"Pre-School Chain",43894800
+2015,Jul,"Premium Loyalty Rewards Point Management",1239948000
+2015,Jul,"Private Jet/ Helicopter Marketplace",0
+2015,Jul,"Rail Ticket Confirmation predictor",0
+2015,Jul,"Real Estate Broker network App",64080000
+2015,Jul,"Real Estate Rating & Analysis",320400000
+2015,Jul,"Residential Rental management platform",0
+2015,Jul,"Restaurant customer engagement platform",147384000
+2015,Jul,"Self-driven vehicle rental",704880000
+2015,Jul,"Spa & Salon Management Software",384480000
+2015,Jul,"Tech enabled logistics platform",32040000
+2015,Jul,"Tech Recruitment platform",480600000
+2015,Jul,"Travel information portal",961200000
+2015,Jul,"Travel Tech",320400000
+2015,Jul,"Used Bikes Marketplace",961200000
+2015,Jul,"Used Car Marketplace",320400000
+2015,Jul,"Used Vehicle Marketplace",1025280000
+2015,Jul,"Warranty Programs Service Administration",38448000
+2015,Jun,"3D Printer Manufacturer",192240000
+2015,Jun,"Algorithmic Match Making Platform",0
+2015,Jun,"App Analytics platform",32040000
+2015,Jun,"Architectural Design & Consulting",32040000
+2015,Jun,"Artist / Designer Marketplace",0
+2015,Jun,"Auto Rickshaw Based Services",320400000
+2015,Jun,"Beauty and Wellness Platform",0
+2015,Jun,"Beauty services Mobile Marketplace",0
+2015,Jun,"Bespoke Merchandize Marketplace",16020000
+2015,Jun,"Brain Games Platform",0
+2015,Jun,"Credit Management Services",160200000
+2015,Jun,"Data Center Software platform",961200000
+2015,Jun,"Data Driven recruitment recommendation",320400000
+2015,Jun,"Dental Clinic chain",525456000
+2015,Jun,"Digital Marketing Services",8971200
+2015,Jun,"Electronic Goods recycling service",0
+2015,Jun,"Engineering Innovations",0
+2015,Jun,"Fashion Ecommerce store",320400000
+2015,Jun,"Financial Services Platform",704880000
+2015,Jun,"Flat rental Mobile App",160200000
+2015,Jun,"Food Delivery Platform",198648000
+2015,Jun,"Freight logistics platform",384480000
+2015,Jun,"Global Healthcare products",1025280000
+2015,Jun,"Health & Fitness App",0
+2015,Jun,"HealthcareService provider",640800000
+2015,Jun,"Healthy Food Manufacturer",384480000
+2015,Jun,"Healthy Food Online Community",22428000
+2015,Jun,"Home services marketplace",256320000
+2015,Jun,"Hyperlocal grocery delivery",0
+2015,Jun,"Hyperlocal Handyman Services",41652000
+2015,Jun,"Hyperlocal services marketplace",640800000
+2015,Jun,"Hyperlocal Shopping App",1281600000
+2015,Jun,"Intra-City Logistics service",32040000
+2015,Jun,"IT / Customer Engagement Consulting",320400000
+2015,Jun,"Logistics Tech",352440000
+2015,Jun,"Marketing / Advertising Automation platform",64080000
+2015,Jun,"Micro Finance Platform",551088000
+2015,Jun,"Mobile Chat based concierge service",102528000
+2015,Jun,"Mobile Commerce Platform",14994720
+2015,Jun,"Mobile Compression Software",22428000
+2015,Jun,"On-Demand Logistics Service",0
+2015,Jun,"Online Budget Hotel Booking Service",384480000
+2015,Jun,"Online Car Rental Affiliates",6408000
+2015,Jun,"Online City & Lifestyle Guide",9612000
+2015,Jun,"Online Coupon & comparison platform",32040000
+2015,Jun,"Online Education Marketplace",64080000
+2015,Jun,"Online Education Platform",0
+2015,Jun,"Online Fashion Video Portal",64080000
+2015,Jun,"Online Food Ordering",1057320000
+2015,Jun,"Online Grocery platform",0
+2015,Jun,"Online Learning Platform",256320000
+2015,Jun,"Online Lingerie platform",0
+2015,Jun,"Online Printing Services",0
+2015,Jun,"online tiffin service aggregator",0
+2015,Jun,"P2P Payments platform",0
+2015,Jun,"Parents & Kids Online platform",0
+2015,Jun,"Peer to Peer Lending platform",16020000
+2015,Jun,"Preventive Healthcare Services",22428000
+2015,Jun,"Private Label lingerie Ecommerce",320400000
+2015,Jun,"Probiotic Technology Products Manufacturer",35244000
+2015,Jun,"Railways Information Mobile app",0
+2015,Jun,"Real Estate Intelligence Platform",192240000
+2015,Jun,"Renewable energy solutions",32040000
+2015,Jun,"SaaS product intelligence platform",961200000
+2015,Jun,"Science Learning App",0
+2015,Jun,"Skill Training & Placement Platform",0
+2015,Jun,"Social Network for Artists",7689600
+2015,Jun,"Startup funding platform",640800000
+2015,Jun,"Tech-enabled Rural Healthcare Services",0
+2015,Jun,"Travel Guide Mobile App",0
+2015,Jun,"Travel Search Engine",0
+2015,Jun,"Used Car Marketplace",32040000
+2015,Jun,"Used two-wheeler Marketplace",0
+2015,Jun,"Video Advertisement Platform",32040000
+2015,Jun,"Video Intelligence Platform",64080000
+2015,Jun,"Wealth Management Platform",96120000
+2015,Jun,"Women Lifestyle Marketplace",0
+2015,May,"Affordable Education",41652000
+2015,May,"Affordable Hotel Booking Online",320400000
+2015,May,"API Workflow platform",64080000
+2015,May,"B2C Messaging App",192240000
+2015,May,"Banking Analytics Platform",961200000
+2015,May,"Business Messaging App",1025280000
+2015,May,"Career Development",16020000
+2015,May,"Cloud Data Integration Platform",128160000
+2015,May,"Customer Engagement Platform",40050000
+2015,May,"Electric Scooter Manufacturer",768960000
+2015,May,"Enterprise Communication Platform",0
+2015,May,"Fund Raising Platform",6408000
+2015,May,"Health & Fitness App",0
+2015,May,"Health Mobile App",30117600
+2015,May,"Hyperlocal Mobile Marketplace",352440000
+2015,May,"Intelligent Data Analytics",0
+2015,May,"Last Mile Logistics",15379200
+2015,May,"Lifestyle Ecommerce Portal",320400000
+2015,May,"Logistics Intelligence",11534400
+2015,May,"Mobile Fitness App",0
+2015,May,"Mobile Laundry Cleaning Service",128160000
+2015,May,"Offline Tea Chain",64080000
+2015,May,"On-Demand Business messaging",12816000
+2015,May,"On-demand Service marketplace",128160000
+2015,May,"Online Art Marketplace",12816000
+2015,May,"Online Car Portal",0
+2015,May,"Online Ed-Tech Platform",64080000
+2015,May,"Online Education Platform",1089360000
+2015,May,"Online Fashion Aggregator",16020000
+2015,May,"Online Food Delivery",1249560000
+2015,May,"Online Home DÃ©cor",64080000
+2015,May,"Online Job skills Showcase",17301600
+2015,May,"Online Medical Diagnostic",9612000
+2015,May,"Online News Media",0
+2015,May,"Online Office Rental",0
+2015,May,"Online Payment Gateway",0
+2015,May,"Online Product Comparison",64080000
+2015,May,"Online Security Platform",128160000
+2015,May,"Online Table Reservation",32040000
+2015,May,"Online Travel Planning",0
+2015,May,"Parents focused Web Content",32040000
+2015,May,"Payments Solution Provider",0
+2015,May,"Real Estate Advisory",384480000
+2015,May,"Rooftop Solar Plants",0
+2015,May,"Self-driven Car rental",320400000
+2015,May,"Service-On-Demand Mobile App",0
+2015,May,"Speech Recognition Solutions",0
+2015,May,"Trucking Logistic Operations",640800000
+2015,May,"Weight Management Service",0
+2015,May,"Workforce Management Software",35244000
+2015,Nov,"affordable Personal Healthcare Products",0
+2015,Nov,"Alternate Mobile Monetization platform",320400000
+2015,Nov,"Auto Insurance Online platform",32040000
+2015,Nov,"Automotive Services platform",0
+2015,Nov,"Beauty and Wellness Marketplace",64080000
+2015,Nov,"Big Data Analytics Platform",0
+2015,Nov,"Branded Food products online sales",38448000
+2015,Nov,"Budget Hotels Aggregator",32040000
+2015,Nov,"Bus Aggregation and rental mobile app",48060000
+2015,Nov,"character merchandize sales platform",34603200
+2015,Nov,"Clud based Learning platform",0
+2015,Nov,"Content Management Software Solutions",0
+2015,Nov,"conversational commerce mobile app",160200000
+2015,Nov,"Cricket Management Mobile Game",16020000
+2015,Nov,"Curated Freelancer Marketplace",0
+2015,Nov,"Designer fashion Jewellery Marketplace",480600000
+2015,Nov,"Digital Intelligent learning platform",16020000
+2015,Nov,"Domestic Help Aggregation platform",9612000
+2015,Nov,"Ecommerce Delivery locker services",576720000
+2015,Nov,"Ecommerce Discount & Cashback coupons platform",237096000
+2015,Nov,"eCommerce Product Search Engine",9612000
+2015,Nov,"ecommerce related software product platform",0
+2015,Nov,"Education Content etailer",0
+2015,Nov,"Education Content Provider",1730160000
+2015,Nov,"Efficient Energy Management platform",1063728000
+2015,Nov,"Event Ticketing platform",31399200
+2015,Nov,"Express local delivery platform",0
+2015,Nov,"extra curricular activities marketplace app",0
+2015,Nov,"Fitness Tracking Management Solutions",858672000
+2015,Nov,"Health and Beauty Services Marketplace",16020000
+2015,Nov,"Health-Tech platform",19544400
+2015,Nov,"Healthcare Services Discovery platform",6408000
+2015,Nov,"Home Healthcare Services platform,",0
+2015,Nov,"Home Improvement Service platform",0
+2015,Nov,"Home Stay & room rentals platform",12816000
+2015,Nov,"Hyperlocal healthcare product Delivery Service provider",64080000
+2015,Nov,"Hyperlocal Logistics Service Provider",0
+2015,Nov,"Hyperlocal Online Home services provider",0
+2015,Nov,"hyperlocal online Services platform",0
+2015,Nov,"Indian Ethnic Crafts Etailer",76896000
+2015,Nov,"Kids Tool kit for Innovation platform",33962400
+2015,Nov,"Marketplace App for Bangkok",121752000
+2015,Nov,"Mobile App based Loan disbursement platform",96120000
+2015,Nov,"Mobile Application Developer",0
+2015,Nov,"Mobile Growth HackingPlatform",32040000
+2015,Nov,"Mobile Learning Solutions",19224000
+2015,Nov,"Mobile Services Marketplace",1602000000
+2015,Nov,"mobile-only tasks marketplace",961200000
+2015,Nov,"Nightlife Discovery Mobile App",9612000
+2015,Nov,"Numerical Computing & Data Science Platform",38448000
+2015,Nov,"On Demand Beauty Services Platform",0
+2015,Nov,"On Demand Laundry Service platform",0
+2015,Nov,"On Demand Laundry Services App",7048800
+2015,Nov,"On-Demand Local Logistics provider",0
+2015,Nov,"On-demand Maids Service Provider",9612000
+2015,Nov,"Online content platform for women",128160000
+2015,Nov,"Online Counselling and psychological support platform",25632000
+2015,Nov,"Online Food Ordering & Delivery platform",12816000
+2015,Nov,"Online Food Ordering Marketplace",9612000
+2015,Nov,"Online Furniture, Home Appliances Rental Platform",128160000
+2015,Nov,"Online Gourmet Food Marketplace",0
+2015,Nov,"Online Grocery platform",115344000
+2015,Nov,"Online Jewellery etailer",29156400
+2015,Nov,"Online Lending Marketplace",0
+2015,Nov,"Online Loans Marketplace",20505600
+2015,Nov,"Online Products Discovery Platform",12816000
+2015,Nov,"Online Real Estate Marketplace",192240000
+2015,Nov,"Online Reputation Management Platform",0
+2015,Nov,"Online Taxi Rental Platform",0
+2015,Nov,"Online Vehicle Spare Parts etailer",29476800
+2015,Nov,"Premium dining Lounges & restaurants",961200000
+2015,Nov,"Product Customization Platform",0
+2015,Nov,"Quick Service Restaurant & Online Delivery",24670800
+2015,Nov,"Ready to cook packaged Foods",384480000
+2015,Nov,"Sales & Productivity Software",801000000
+2015,Nov,"Self Driven Rental Car Platform",128160000
+2015,Nov,"Selfie Mobile App",0
+2015,Nov,"Skill Training Startup",96120000
+2015,Nov,"Smartwatch Maker",32040000
+2015,Nov,"Social platform for traders and investors",6408000
+2015,Nov,"Talent Exchange & Talent Services Marketplace",0
+2015,Nov,"Talent platform for Fashion professionals",0
+2015,Nov,"Two-Wheeler Taxi Service",92916000
+2015,Nov,"Viral Content web Platform",256320000
+2015,Nov,"Virtual Reality Headset creator",11534400
+2015,Nov,"Voice Call incentivization mobile app",0
+2015,Nov,"WiFi â€“ first Cloud communication platform",0
+2015,Oct,"360-degree view creating platform",0
+2015,Oct,"Advertising & Marketing Community Networking platform",64080000
+2015,Oct,"Artificial Intelligence Ecommerce Chatbot",0
+2015,Oct,"Asset Financing platform",70488000
+2015,Oct,"Autorickshaw Aggregator & Booking platform",640800000
+2015,Oct,"B2B marketplace for industrial goods",0
+2015,Oct,"Beauty & Wellness Products e-tailer",608760000
+2015,Oct,"bus ticketing and fleet management platform",0
+2015,Oct,"Cloud Based Collaboration platform",6408000
+2015,Oct,"Competitive exam learning platform",128160000
+2015,Oct,"Crowdsourced Delivery platform",0
+2015,Oct,"Delivery & Logistics Service provider",1281600000
+2015,Oct,"Developer Portfolio Showcase platform",4485600
+2015,Oct,"Doctors Network Mobile App",0
+2015,Oct,"Document Digitization platform",14738400
+2015,Oct,"E-Learning Service Provider",192240000
+2015,Oct,"Easy Business Loans platform",0
+2015,Oct,"End-to-End Lending platform",512640000
+2015,Oct,"Exclusive Platform for Doctors & Healthcare professionals",44856000
+2015,Oct,"Fashion jewelry and accessories e-tailer",961200000
+2015,Oct,"Food Discovery & Delivery Mobile app",480600000
+2015,Oct,"Food Ordering & Delivery App",4934160
+2015,Oct,"Gesture based Mobile Development",493416000
+2015,Oct,"global community for travellers",0
+2015,Oct,"Gourmet Meals Delivery",0
+2015,Oct,"Gym Discovery platform",0
+2015,Oct,"Healthcare IT Solutions & services",640800000
+2015,Oct,"Healthy Meals Food delivery platform",0
+2015,Oct,"Home Cooked Food marketplace & Delivery",128160000
+2015,Oct,"Home Made Food Marketplace",6408000
+2015,Oct,"Home rental platform",0
+2015,Oct,"Hotel Aggregator & booking platform",16020000
+2015,Oct,"Hotel Mobile CRM Software platform",0
+2015,Oct,"Hyperlocal Logistics Service",640800000
+2015,Oct,"Industrial Toons Marketplace",0
+2015,Oct,"Investment management platform",0
+2015,Oct,"Job Board",32040000
+2015,Oct,"Last Mile Delivery Service",448560000
+2015,Oct,"Location based Nightlife recommendationÂ  Platform",4934160
+2015,Oct,"Logistics Tech Platform",19864800
+2015,Oct,Micro-Brewery,98042400
+2015,Oct,"Mobile Messaging Assistant App",160200000
+2015,Oct,"Mobile Only Shopping Assistant",64080000
+2015,Oct,"Mobile Payments App",384480000
+2015,Oct,"Movie-on-demand platform",22428000
+2015,Oct,"multi-sport program for preschoolers",0
+2015,Oct,"Music Streaming mobile app",0
+2015,Oct,"on-demand healthcare marketplace",19224000
+2015,Oct,"Online Apparels Fashion brand",0
+2015,Oct,"Online Consumer Lending platform",64080000
+2015,Oct,"Online food ordering & Delivery service",73692000
+2015,Oct,"Online Grocery Store",0
+2015,Oct,"Online Homeopathy Clinic",384480000
+2015,Oct,"Online Income Tax Filing platform",0
+2015,Oct,"Online Logistics Platform",320400000
+2015,Oct,"Online P2P lending marketplace",0
+2015,Oct,"Online Payment Gateway",576720000
+2015,Oct,"Online Purchase rewards app",0
+2015,Oct,"Online Student & Campus Social Networking platform",25632000
+2015,Oct,"Online user engagement platform",0
+2015,Oct,"Order Fulfillment SAAS platform",0
+2015,Oct,"Organic Food etailer",0
+2015,Oct,"Payments Solution platform",1602000000
+2015,Oct,"Performance based Wholesale Marketplace",0
+2015,Oct,"Personal Diagnostic Mobile App",9612000
+2015,Oct,"Personalized Stock Intelligence Platform",0
+2015,Oct,"Personalized Wish List creator app",3204000
+2015,Oct,"Premium Apparel shopping portal",9612000
+2015,Oct,"Prepaid Bill manager App",0
+2015,Oct,"Product Discovery & comparison App",0
+2015,Oct,"Product discovery & recommendation platform",128160000
+2015,Oct,"Professional Health Services Platform",22428000
+2015,Oct,"Professional Services Marketplace",0
+2015,Oct,"Professionals & Project Search Marketplace",32040000
+2015,Oct,"proximity marketing & Mobile Advertising platform",5126400
+2015,Oct,"Psychometric Test Online Software",0
+2015,Oct,"Public Commute helper App",28836000
+2015,Oct,"QSR & Online delivery portal",32040000
+2015,Oct,"Raw Meat & Ready to eat food etailer",4934160
+2015,Oct,"Real Estate Insights platform",0
+2015,Oct,"Real Estate Mobile CRM",189036000
+2015,Oct,"Rental Accommodation Search platform",640800000
+2015,Oct,"residential rental management platform",41011200
+2015,Oct,"Ride Sharing platform",12175200
+2015,Oct,"Ridesharing Mobile app",8330400
+2015,Oct,"Sports Management & Physical Education Business",640800000
+2015,Oct,"Startup Funding Marketplace",0
+2015,Oct,"Structural & Civil Engg Service Automation",64080000
+2015,Oct,"Travel Destination Discovery platform",6408000
+2015,Oct,"Truck Aggregator & Logistics service",0
+2015,Oct,"Virtual Reality activity based learning platform",12816000
+2015,Sep,"Activity Based Social Network",0
+2015,Sep,"B2B Mobile Auction Marketplace",28836000
+2015,Sep,"Beauty & Wellness Services Marketplace",0
+2015,Sep,"Big Data Management Platform",320400000
+2015,Sep,"Branded Budget Hotel Marketplace",19224000
+2015,Sep,"Budget Accommodation Platform",64080000
+2015,Sep,"Cab Booking app platform",1922400000
+2015,Sep,"Chain of Tea CafÃ©â€™s",64080000
+2015,Sep,"Cloud-based Hotel Booking Platform",128160000
+2015,Sep,"Community Driven News/Views Platform",38448000
+2015,Sep,"Consumer lending marketplace",0
+2015,Sep,"Content-based Subscription eCommerce platform",0
+2015,Sep,"coupons and cashback aggregator app",8010000
+2015,Sep,"Cross-device retargeting platform",76896000
+2015,Sep,"Dairy Based Product Manufacturer",115344000
+2015,Sep,"Data Driven Publishing platform",211464000
+2015,Sep,"Designer Merchandize Marketplace",0
+2015,Sep,"Diagnostic Labs aggregator platform",9612000
+2015,Sep,"Digital & Physical Publishing platform",144180000
+2015,Sep,"Digital Signal processing platform",64080000
+2015,Sep,"Doctor consultancy Mobile App",0
+2015,Sep,"Early Cancer Detection Solutions",192240000
+2015,Sep,"ECommerce Brandsâ€™ Full Service Agency",6408000
+2015,Sep,"ECommerce Data Analytics Platform",0
+2015,Sep,"Ecommerce Product recommendation platform",0
+2015,Sep,"Employee OnBoarding & Orientation platform",25632000
+2015,Sep,"End-to-end Logistics platform",640800000
+2015,Sep,"Fashion Discovery platform",22428000
+2015,Sep,"Financial Products lead generation platform",0
+2015,Sep,"Financial Services Portal",192240000
+2015,Sep,"FinTech Startup Incubation platform",6408000
+2015,Sep,"Food Delivery Platform",112140000
+2015,Sep,"Food discovery & table booking app",0
+2015,Sep,"Food Subscription platform",640800000
+2015,Sep,"Government Test Preparation platform",25632000
+2015,Sep,"Gym & Fitness Studios Subscription platform",6408000
+2015,Sep,"Healthcare Consulting platform",0
+2015,Sep,"Home Design & DÃ©cor platform",0
+2015,Sep,"Home Fitting & Fixtures Marketplace",0
+2015,Sep,"Hyperlocal Delivery Platform",0
+2015,Sep,"Hyperlocal Delivery Services",576720000
+2015,Sep,"Industrial Tools Marketplace",589536000
+2015,Sep,"Internet of Things platform",9612000
+2015,Sep,"Job Search Platform",16660800
+2015,Sep,"Local Mobile OS",0
+2015,Sep,"Luxury goodsÂ  Shopping Platform",57672000
+2015,Sep,"Mobile App testing platform",76896000
+2015,Sep,"Mobile Marketing Automation Platform",272340000
+2015,Sep,"Multilingual Test Preparation Platform",49341600
+2015,Sep,"Non Profit Organization to alleviate poverty",20185200
+2015,Sep,"Online Bus & Cab ticketing platform",0
+2015,Sep,"Online Food ordering & delivery",38448000
+2015,Sep,"Online Health & Wellness platform",73692000
+2015,Sep,"Online Insurance Distribution Platform",128160000
+2015,Sep,"Online Interior Designing platform",25632000
+2015,Sep,"online meal-booking platform for train travelers",0
+2015,Sep,"Online Meat Ordering platform",64080000
+2015,Sep,"Online Movie Review Platform",9612000
+2015,Sep,"Payment Services platform",0
+2015,Sep,"Personalized Styling platform",64080000
+2015,Sep,"Pre-owned games Marketplace",0
+2015,Sep,"pre-used apparel shopping mobile app",64080000
+2015,Sep,"pre-used luxury item Marketplace",0
+2015,Sep,"Prepaid Mobile Bill Manager App",0
+2015,Sep,"Private Label Apparel sales",19224000
+2015,Sep,"Real Estate Broker Platform App",22428000
+2015,Sep,"Real-Time stock data platform",15058800
+2015,Sep,"Smart Report Cards for Schools",0
+2015,Sep,"Solar Power Solutions company",128160000
+2015,Sep,"Stock Market Portal",0
+2015,Sep,"Study Material Marketplace",13136400
+2015,Sep,"Sustainable Agri-inputs Firm",0
+2015,Sep,"Teacher empowerment platform",0
+2015,Sep,"Used Vehicles Marketplace",961200000
+2015,Sep,"virtual reality, 3d simulation and stereoscopic products",51264000
+2015,Sep,"Wedding Planning Platform",26272800
+2016,Apr,Auto,0
+2016,Apr,"Consumer Internet",7818230000
+2016,Apr,eCommerce,2385200000
+2016,Apr,Education,0
+2016,Apr,Finance,0
+2016,Apr,"Food & Beverage",36850000
+2016,Apr,Healthcare,0
+2016,Apr,Logistics,67000000
+2016,Apr,Technology,6700000
+2016,Aug,"Consumer Internet",6100551000
+2016,Aug,eCommerce,1832115000
+2016,Aug,Education,60300000
+2016,Aug,"Food & Beverage",67000000
+2016,Aug,Healthcare,201000000
+2016,Aug,Logistics,25125000
+2016,Aug,Others,2680000
+2016,Aug,Technology,2437192000
+2016,Dec,"Consumer Internet",4243177000
+2016,Dec,eCommerce,1608804000
+2016,Dec,"Food & Beverage",134000000
+2016,Dec,Logistics,670000000
+2016,Dec,Technology,3544300000
+2016,Feb,"Consumer Internet",4179326000
+2016,Feb,ECommerce,2814000000
+2016,Feb,Education,335000000
+2016,Feb,Finance,33500000
+2016,Feb,"Food & Beverage",67000000
+2016,Feb,Healthcare,0
+2016,Feb,"Real Estate",0
+2016,Feb,Technology,1382545000
+2016,Jan,BFSI,0
+2016,Jan,"Consumer Interne",0
+2016,Jan,"Consumer Internet",5845750000
+2016,Jan,ECommerce,3681650000
+2016,Jan,Education,267665000
+2016,Jan,Finance,234500000
+2016,Jan,FMCG,24790000
+2016,Jan,"Food & Beverage",402000000
+2016,Jan,Healthcare,278050000
+2016,Jan,"Real Estate",0
+2016,Jan,Technology,2992555000
+2016,Jul,"Consumer Internet",3989314000
+2016,Jul,eCommerce,2836780000
+2016,Jul,Finance,1072000000
+2016,Jul,"Food & Beverage",0
+2016,Jul,Healthcare,0
+2016,Jul,Logistics,173865000
+2016,Jul,Technology,2081690000
+2016,Jun,"Consumer Internet",6348451000
+2016,Jun,eCommerce,3021700000
+2016,Jun,Education,268000000
+2016,Jun,FMCG,10050000
+2016,Jun,"Food & Beverage",24656000
+2016,Jun,Healthcare,134000000
+2016,Jun,Logistics,402000000
+2016,Jun,Others,210916000
+2016,Jun,"Real Estate",0
+2016,Jun,Technology,2958050000
+2016,Mar,"Consumer Internet",890296000
+2016,Mar,ECommerce,906081736
+2016,Mar,Education,67000000
+2016,Mar,Finance,314900000
+2016,Mar,"Food & Beverage",844200000
+2016,Mar,Healthcare,308200000
+2016,Mar,Logistics,998300000
+2016,Mar,"Real Estate",167500000
+2016,Mar,Technology,1169150000
+2016,May,"Consumer Internet",4809863000
+2016,May,eCommerce,489100000
+2016,May,Education,737000000
+2016,May,"Food & Beverage",0
+2016,May,Healthcare,110550000
+2016,May,Logistics,152425000
+2016,May,Reality,67000000
+2016,May,Technology,2333342000
+2016,Nov,"Consumer Internet",4249207000
+2016,Nov,eCommerce,2389086000
+2016,Nov,Finance,67000000
+2016,Nov,"Food & Beverage",14606000
+2016,Nov,Logistics,67000000
+2016,Nov,Technology,1922900000
+2016,Oct,"Consumer Internet",7329934000
+2016,Oct,eCommerce,1157425000
+2016,Oct,Finance,402000000
+2016,Oct,Logistics,0
+2016,Oct,Others,1072000000
+2016,Oct,Technology,2597657000
+2016,Sep,"Consumer Internet",2470826000
+2016,Sep,eCommerce,4016181000
+2016,Sep,Education,446890000
+2016,Sep,Technology,2470290000
+2017,Apr,"Consumer Internet",5022243750
+2017,Apr,eCommerce,1861905000
+2017,Apr,Education,535706000
+2017,Apr,"Food & Beverage",587970000
+2017,Apr,"Food & Beverages",11432750
+2017,Apr,Healthcare,1371930000
+2017,Apr,Logistics,293985000
+2017,Apr,Technology,2230692850
+2017,Aug,"Consumer Internet",88195500
+2017,Aug,Technology,84929000
+2017,Feb,"Consumer Internet",5597147750
+2017,Feb,ECommerce,1949055220
+2017,Feb,Finance,0
+2017,Feb,Technology,1028947500
+2017,Jan,"Consumer Internet",2996164460
+2017,Jan,ecommerce,981125940
+2017,Jan,Logistics,849290000
+2017,Jan,Technology,2113654155
+2017,Jul,"Consumer Internet",2832970120
+2017,Jul,eCommerce,3749942000
+2017,Jul,Logistics,0
+2017,Jul,Others,0
+2017,Jul,Technology,2086640200
+2017,Jun,"Consumer Internet",6177474140
+2017,Jun,eCommerce,307769630
+2017,Jun,Healthcare,65330000
+2017,Jun,Technology,4789668950
+2017,Mar,"Consumer Internet",3894386630
+2017,Mar,ECommerce,1404595000
+2017,Mar,Healthcare,1302876190
+2017,Mar,Logistics,979950000
+2017,Mar,Technology,4065289910
+2017,May,"Consumer Internet",2340055270
+2017,May,eCommerce,1920702000
+2017,May,Finance,522640000
+2017,May,"Food & Beverage",65330000
+2017,May,Logistics,2613200000
+2017,May,Technology,917886500

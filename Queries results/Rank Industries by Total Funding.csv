@@ -1,0 +1,692 @@
+INDUSTRY,SUM(INR_AMOUNT),RANK_
+"Consumer Internet",87223562620,1
+Technology,43214080065,2
+eCommerce,39959143926,3
+Logistics,7292140000,4
+Healthcare,3771936190,5
+"Online budget hotel chain",2883600000,6
+"Big Data & Analytics platform",2755440000,7
+Education,2717561000,8
+Finance,2646540000,9
+"Food & Beverage",2243612000,10
+"QSR Chain",1922400000,11
+"Logistics Services Provider",1922400000,11
+"Cab Booking app platform",1922400000,11
+"Automated Storage & Warehousing Solution",1922400000,11
+"Ethnic Beverages manufacturer",1922400000,11
+"Fine Dining Restaurant Chain",1922400000,11
+"Online Classifieds & Listings",1794240000,17
+"Education Content Provider",1730160000,18
+"Home services marketplace",1698120000,19
+"Digital / Mobile Wallet",1612573200,20
+"Online Freight Services Aggregator",1602000000,21
+"Mobile Services Marketplace",1602000000,21
+"Payments Solution platform",1602000000,21
+"Mobile based PoS solution",1602000000,21
+"Financial Inclusion platform",1602000000,21
+"Mobile Point of Sale payment solution",1602000000,21
+"Restaurant Reviews",1602000000,21
+"Online Food Delivery",1377720000,28
+"Tele-Shopping / eCommerce",1377720000,28
+Others,1285596000,30
+"App based Bus Pooling Services",1281600000,31
+"Online Wedding Marketplace",1281600000,31
+"Delivery & Logistics Service provider",1281600000,31
+"engineering services company",1281600000,31
+"Online Furniture Marketplace",1281600000,31
+"News Aggregator mobile app",1281600000,31
+"Clinical Genomics Provider",1281600000,31
+"Hyperlocal Shopping App",1281600000,31
+"Premium Loyalty Rewards Point Management",1239948000,39
+"Ethnic Product eCommerce",1153440000,40
+"Online Education Platform",1089360000,41
+"Efficient Energy Management platform",1063728000,42
+"Online Food Ordering",1057320000,43
+"Online Jewellery Store",1038096000,44
+"Hyper-Local Ecommerce",1025280000,45
+"Used Vehicle Marketplace",1025280000,45
+"Global Healthcare products",1025280000,45
+"Business Messaging App",1025280000,45
+"Fashion Discovery platform",983628000,49
+"Premium dining Lounges & restaurants",961200000,50
+"mobile-only tasks marketplace",961200000,50
+"Fashion jewelry and accessories e-tailer",961200000,50
+"Used Vehicles Marketplace",961200000,50
+"Travel information portal",961200000,50
+"Used Bikes Marketplace",961200000,50
+"Data Center Software platform",961200000,50
+"SaaS product intelligence platform",961200000,50
+"Banking Analytics Platform",961200000,50
+"Online Certification Courses",961200000,50
+"IT infrastructure & Data Center services",865080000,60
+"Fitness Tracking Management Solutions",858672000,61
+"Luxury Rental Homes",817020000,62
+"Sales & Productivity Software",801000000,63
+"Electric Scooter manufacturer",768960000,64
+"Mobile App Development",768960000,64
+"Online Insurance Aggregator",768960000,64
+"Self-driven vehicle rental",704880000,67
+"Hyper local logistics platform",704880000,67
+"Financial Services Platform",704880000,67
+"Healthcare Mobile App",653616000,70
+"Supply Chain & Logistics Solutions",640800000,71
+"Sports Management & Physical Education Business",640800000,71
+"Rental Accommodation Search platform",640800000,71
+"Healthcare IT Solutions & services",640800000,71
+"Hyperlocal Logistics Service",640800000,71
+"Autorickshaw Aggregator & Booking platform",640800000,71
+"Food Subscription platform",640800000,71
+"End-to-end Logistics platform",640800000,71
+"Online Finance lending platform",640800000,71
+"Casual Dining restaurant Chain",640800000,71
+"Online comparison engine",640800000,71
+"HealthcareService provider",640800000,71
+"Startup funding platform",640800000,71
+"Hyperlocal services marketplace",640800000,71
+"Trucking Logistic Operations",640800000,71
+"Online Grocer",640800000,71
+"Hyper-Local Online/Mobile Grocery",640800000,71
+"Grey collar Job Board",640800000,71
+"User Engagment & Analytics platform",615168000,89
+"Beauty & Wellness Products e-tailer",608760000,90
+"Industrial Tools Marketplace",589536000,91
+"Ecommerce Delivery locker services",576720000,92
+"Online Payment Gateway",576720000,92
+"Hyperlocal Delivery Services",576720000,92
+"Micro Finance Platform",551088000,95
+"Dental Clinic chain",525456000,96
+"End-to-End Lending platform",512640000,97
+"Home Design & DÃ©cor solutions",512640000,97
+"Online Travel Marketplace",512640000,97
+"Gesture based Mobile Development",493416000,100
+"Designer fashion Jewellery Marketplace",480600000,101
+"Food Discovery & Delivery Mobile app",480600000,101
+"Credit Card Fraud protection solutions",480600000,101
+"Celebrity Fashion Brand",480600000,101
+"Tech Recruitment platform",480600000,101
+"Last Mile Delivery Service",448560000,106
+"Mobile Wallet",422928000,107
+"Language Learning App",416520000,108
+"Ready to cook packaged Foods",384480000,109
+"Mobile Payments App",384480000,109
+"Online Homeopathy Clinic",384480000,109
+"Spa & Salon Management Software",384480000,109
+"Healthy Food Manufacturer",384480000,109
+"Online Budget Hotel Booking Service",384480000,109
+"Logistics Tech",384480000,109
+"Freight logistics platform",384480000,109
+"Real Estate Advisory",384480000,109
+"Online Pharmacy & Drug DB",384480000,109
+"Cloud Enterprise Software",384480000,109
+"Hyperlocal Handyman services",362052000,120
+"Transportation & Logistics Platform",358848000,121
+"Used Car Marketplace",352440000,122
+"Hyperlocal Mobile Marketplace",352440000,122
+"Online Branded Furniture etailer",320400000,124
+"B2B eCommerce Marketplace",320400000,124
+"Alternate Mobile Monetization platform",320400000,124
+"Online Logistics Platform",320400000,124
+"Big Data Management Platform",320400000,124
+"ECommerce Logistics provider",320400000,124
+"Real Estate Rating & Analysis",320400000,124
+"Contact Center Software Platform",320400000,124
+"Travel Tech",320400000,124
+"Auto Rickshaw Based Services",320400000,124
+"Private Label lingerie Ecommerce",320400000,124
+"Fashion Ecommerce store",320400000,124
+"IT / Customer Engagement Consulting",320400000,124
+"Data Driven recruitment recommendation",320400000,124
+"Lifestyle Ecommerce Portal",320400000,124
+"Affordable Hotel Booking Online",320400000,124
+"Self-driven Car rental",320400000,124
+"Hyper-local Online Services",320400000,124
+"Food Delivery Platform",310788000,142
+"Payment Solutions platform",310788000,142
+"Custom Made furniture e-tailer",288360000,144
+"Mobile Marketing Automation Platform",272340000,145
+"Data Analytics Platform",269136000,146
+"HyperlocalÂ  Grocery Delivery Service",256320000,147
+"Viral Content web Platform",256320000,147
+"Mobile Commerce for Farmers",256320000,147
+"Cross-channel CRM platform",256320000,147
+"Language Localization Cloud platform",256320000,147
+"Online Learning Platform",256320000,147
+"Material Collection & Recycling",256320000,147
+"Ecommerce Discount & Cashback coupons platform",237096000,154
+"Modular Furnishings Marketplace",224280000,155
+"Fashion ECommerce",224280000,155
+"Startup Analytics platform",224280000,155
+"Data Driven Publishing platform",211464000,158
+"Online School for Analytics learning",192240000,159
+"Nonbanking finance company",192240000,159
+"Performance Optimization Platform for athletes",192240000,159
+"Mobile accessories online store",192240000,159
+"Online Real Estate Marketplace",192240000,159
+"E-Learning Service Provider",192240000,159
+"Early Cancer Detection Solutions",192240000,159
+"Financial Services Portal",192240000,159
+"Restaurant Reservation Platform",192240000,159
+"Budget Accommodation aggregator",192240000,159
+"Real Estate Intelligence Platform",192240000,159
+"3D Printer Manufacturer",192240000,159
+"B2C Messaging App",192240000,159
+"Real Estate Mobile CRM",189036000,172
+"Real Estate",167500000,173
+"Mobile Point of Sale solutions",160200000,174
+"conversational commerce mobile app",160200000,174
+"Mobile Messaging Assistant App",160200000,174
+"Mutual Fund Investing platform",160200000,174
+"Credit Management Services",160200000,174
+"Flat rental Mobile App",160200000,174
+"Hyperlocal Maintenance, Repair & Cleaning services",153792000,180
+"Medical Tech Instruments",153792000,180
+"Business intelligence & Analytics",153792000,180
+"Restaurant customer engagement platform",147384000,183
+"Digital & Physical Publishing platform",144180000,184
+"Photographer Online search & booking platform",140976000,185
+"Travel Entertainment",140976000,185
+"Digital Healthcare",128160000,187
+"Home Cooked Food Order & Delivery platform",128160000,187
+"End to End reverse logistics Solution platform",128160000,187
+"Logistics Service Provider Marketplace",128160000,187
+"Sports Education Platform",128160000,187
+"Online content platform for women",128160000,187
+"Online Furniture, Home Appliances Rental Platform",128160000,187
+"Self Driven Rental Car Platform",128160000,187
+"Product discovery & recommendation platform",128160000,187
+"Home Cooked Food marketplace & Delivery",128160000,187
+"Competitive exam learning platform",128160000,187
+"Cloud-based Hotel Booking Platform",128160000,187
+"Online Insurance Distribution Platform",128160000,187
+"Solar Power Solutions company",128160000,187
+"Beauty & Lifestyle Mobile Marketplace",128160000,187
+"Hasbro Toy Manufacturer",128160000,187
+"Online Security Platform",128160000,187
+"Cloud Data Integration Platform",128160000,187
+"Mobile Laundry Cleaning Service",128160000,187
+"On-demand Service marketplace",128160000,187
+"Premium Beverages",128160000,187
+"Marketplace App for Bangkok",121752000,208
+"Online Grocery platform",115344000,209
+"Dairy Based Product Manufacturer",115344000,209
+"Last Minute Travel Deals mobile marketplace",115344000,209
+"Data Science & UX design Learning platform",108936000,212
+"Logistics Tech Platform",103168800,213
+"Quick Service Restaurant Chain",102528000,214
+"F&B sector Mobile Payment platform",102528000,214
+"Mobile Chat based concierge service",102528000,214
+"Hyperlocal Mobile Services Marketplace",102528000,214
+Micro-Brewery,98042400,218
+"Last Minute Hotel Booking App",96120000,219
+"Skill Training Startup",96120000,219
+"Mobile App based Loan disbursement platform",96120000,219
+"Wealth Management Platform",96120000,219
+"Private Coaching Centers",96120000,219
+"Two-Wheeler Taxi Service",92916000,224
+"Crowd funding platform",89712000,225
+"Health-Tech platform",83624400,226
+"On-Demand Delivery Logistics",83304000,227
+"Hyperlocal food & grocery store",83304000,227
+"Online Kitchen Furniture",80100000,229
+"Virtual Health consultation app",76896000,230
+"Electric Bike Manufacturers",76896000,230
+"Indian Ethnic Crafts Etailer",76896000,230
+"Mobile App testing platform",76896000,230
+"Cross-device retargeting platform",76896000,230
+"Innovative Water Solutions",76896000,230
+"OnDemandMobile Handyman Services",76896000,230
+"Online food ordering & Delivery service",73692000,237
+"Online Health & Wellness platform",73692000,237
+"Asset Financing platform",70488000,239
+Reality,67000000,240
+"Online Education Information platform",64080000,241
+"Wedding Venues & Vendors Marketplace",64080000,241
+"visual search and discovery platform",64080000,241
+"Mobile Fitness App",64080000,241
+"Mobile Game development & Design platform",64080000,241
+"Grocery Delivery platform",64080000,241
+"Beauty and Wellness Marketplace",64080000,241
+"Hyperlocal healthcare product Delivery Service provider",64080000,241
+"Online Consumer Lending platform",64080000,241
+"Advertising & Marketing Community Networking platform",64080000,241
+"Mobile Only Shopping Assistant",64080000,241
+"Structural & Civil Engg Service Automation",64080000,241
+"Personalized Styling platform",64080000,241
+"pre-used apparel shopping mobile app",64080000,241
+"Chain of Tea CafÃ©â€™s",64080000,241
+"Online Meat Ordering platform",64080000,241
+"Budget Accommodation Platform",64080000,241
+"Digital Signal processing platform",64080000,241
+"mobile payment software platform",64080000,241
+"Deep Learning Cloud Algorithms",64080000,241
+"Corporate Wellness App",64080000,241
+"On-Demand App based Professional service provider",64080000,241
+"CRM / Analytics platform",64080000,241
+"Custom Merchandize platform",64080000,241
+"Organic Food ecommerce",64080000,241
+"Fitness Marketplace",64080000,241
+"Real Estate Broker network App",64080000,241
+"Online Fashion Video Portal",64080000,241
+"Video Intelligence Platform",64080000,241
+"Online Education Marketplace",64080000,241
+"Marketing / Advertising Automation platform",64080000,241
+"Online Product Comparison",64080000,241
+"Offline Tea Chain",64080000,241
+"Online Ed-Tech Platform",64080000,241
+"Online Home DÃ©cor",64080000,241
+"API Workflow platform",64080000,241
+"Location Based App",64080000,241
+"Online Hotel Booking",64080000,241
+"Auto Rickshaw based Logistics",64080000,241
+"Food Logistics & Delivery",64080000,241
+"Used Gadgets Buy / Refurbishing",64080000,241
+"Luxury goodsÂ  Shopping Platform",57672000,282
+"InteractiveÂ  How-To Guides",57672000,282
+"virtual reality, 3d simulation and stereoscopic products",51264000,284
+"Bike Rental Platform",50623200,285
+"Tech Platform for property brokers",50302800,286
+"Multilingual Test Preparation Platform",49341600,287
+"Career Community for Women",49341600,287
+"Job Search Platform",48700800,289
+"Artificial Intelligence platform",48060000,290
+"Bus Aggregation and rental mobile app",48060000,290
+"Exclusive Platform for Doctors & Healthcare professionals",44856000,292
+"Pre-School Chain",43894800,293
+"fund raising platform for startups",41652000,294
+"Affordable Education",41652000,294
+"residential rental management platform",41011200,296
+"Fast food Chain Franchisee",40370400,297
+"Hyperlocal Electronics repair Service",40370400,297
+"Customer Engagement Platform",40050000,299
+"Test Automation SAAS platform",38448000,300
+"Branded Food products online sales",38448000,300
+"Numerical Computing & Data Science Platform",38448000,300
+"Community Driven News/Views Platform",38448000,300
+"Online Food ordering & delivery",38448000,300
+"Online marketplace for Photographers",38448000,300
+"Visual Blogging platform",38448000,300
+"Warranty Programs Service Administration",38448000,300
+"Online Jewelry Store",38448000,300
+"Probiotic Technology Products Manufacturer",35244000,309
+"Workforce Management Software",35244000,309
+FMCG,34840000,311
+"character merchandize sales platform",34603200,312
+"Kids Tool kit for Innovation platform",33962400,313
+"Enterprise Marketing Automation platform",32040000,314
+"Digital Analytics Platform",32040000,314
+"Internet Network Infrastructure Services",32040000,314
+"Medical Consultation & Doctor appointment booking platform",32040000,314
+"Mobile Car Servicing appointment app",32040000,314
+"Budget Hotels Aggregator",32040000,314
+"Mobile Growth HackingPlatform",32040000,314
+"Auto Insurance Online platform",32040000,314
+"Smartwatch Maker",32040000,314
+"Job Board",32040000,314
+"QSR & Online delivery portal",32040000,314
+"Professionals & Project Search Marketplace",32040000,314
+"hotel booking app",32040000,314
+"App securityÂ  testing platform",32040000,314
+"Loyalty Programs & Reward Points",32040000,314
+"Taxi Rental platform",32040000,314
+"Ecommerce Marketing Software Platform",32040000,314
+"Online Food Community Platform",32040000,314
+"Tech enabled logistics platform",32040000,314
+"Hyperlocal Grocery App",32040000,314
+"Architectural Design & Consulting",32040000,314
+"Renewable energy solutions",32040000,314
+"Intra-City Logistics service",32040000,314
+"Online Coupon & comparison platform",32040000,314
+"Video Advertisement Platform",32040000,314
+"App Analytics platform",32040000,314
+"Online Table Reservation",32040000,314
+"Parents focused Web Content",32040000,314
+"business expense management",32040000,314
+"Hiring Analytics platform",32040000,314
+"Event Ticketing platform",31399200,344
+"Online Food-Tech Platform",30117600,345
+"Health Mobile App",30117600,345
+"Online Vehicle Spare Parts etailer",29476800,347
+"Online Jewellery etailer",29156400,348
+"Public Commute helper App",28836000,349
+"B2B Mobile Auction Marketplace",28836000,349
+"Wedding Planning Platform",26272800,351
+"Online Counselling and psychological support platform",25632000,352
+"Online Student & Campus Social Networking platform",25632000,352
+"Government Test Preparation platform",25632000,352
+"Online Interior Designing platform",25632000,352
+"Employee OnBoarding & Orientation platform",25632000,352
+"Restaurant Discount app",25632000,352
+"Professional Service Appointment booking service",25632000,352
+"On-Demand Beauty Service",25632000,352
+"Interactive Educational Games",25632000,352
+"Financial Markets Software",25632000,352
+"Custom Furniture Marketplace",25311600,362
+"Quick Service Restaurant & Online Delivery",24670800,363
+"Picture creation & Social mobile app",22428000,364
+"Movie-on-demand platform",22428000,364
+"Professional Health Services Platform",22428000,364
+"Real Estate Broker Platform App",22428000,364
+"Healthy Food Online Community",22428000,364
+"Preventive Healthcare Services",22428000,364
+"Mobile Compression Software",22428000,364
+"Restaurant Management Platform",22428000,364
+"Online Loans Marketplace",20505600,372
+"Online Grocers",20505600,372
+"Non Profit Organization to alleviate poverty",20185200,374
+"Internet of Things platform",19928880,375
+"on-demand delivery service",19864800,376
+"B2B Merchandize platform",19416240,377
+"Online Food ordering & Delivery platform",19224000,378
+"Mobile Learning Solutions",19224000,378
+"on-demand healthcare marketplace",19224000,378
+"Branded Budget Hotel Marketplace",19224000,378
+"Private Label Apparel sales",19224000,378
+"Food Customer analytics platform",19224000,378
+"Online Coffee Delivery platform",19224000,378
+"Physical Storage warehouses",19224000,378
+Ed-Tech,19224000,378
+"Online Job skills Showcase",17301600,387
+"Smart Safety Wearable Devices",16020000,388
+"Digital Intelligent learning platform",16020000,388
+"Cricket Management Mobile Game",16020000,388
+"Health and Beauty Services Marketplace",16020000,388
+"Hotel Aggregator & booking platform",16020000,388
+"mobile social network",16020000,388
+"Online printing marketplace",16020000,388
+"Professional Custom creators Marketplace",16020000,388
+"Bespoke Merchandize Marketplace",16020000,388
+"Peer to Peer Lending platform",16020000,388
+"Career Development",16020000,388
+"Online Fashion Aggregator",16020000,388
+"Robotic Program learning",16020000,388
+"Logistics service platform",15699600,401
+"Last Mile Logistics",15379200,402
+"Real-Time stock data platform",15058800,403
+"Mobile Commerce Platform",14994720,404
+"Document Digitization platform",14738400,405
+"Exam Preparation Platform",14097600,406
+"Study Material Marketplace",13136400,407
+"Cab search Comparison & Booking platform",12816000,408
+"International Hiring Platform",12816000,408
+"Home Stay & room rentals platform",12816000,408
+"Online Products Discovery Platform",12816000,408
+"Virtual Reality activity based learning platform",12816000,408
+"Online Art Marketplace",12816000,408
+"On-Demand Business messaging",12816000,408
+"Web Content Publishing",12816000,408
+"Device Repair Svcs",12816000,408
+"Ride Sharing platform",12175200,417
+"Virtual Reality Headset creator",11534400,418
+"Logistics Intelligence",11534400,418
+"Food & Beverages",11432750,420
+"Educational Board Games",10765440,421
+"Chinese food delivery",10765440,421
+"Price Comparison",10573200,423
+"Waste Management Solutions",10252800,424
+"QSR Restaurant Chain",10252800,424
+"Online Diagnostic Tests Marketplace",9996480,426
+"Online RTI application services",9612000,427
+"New Curation Mobile App",9612000,427
+"Online Food Ordering Marketplace",9612000,427
+"Domestic Help Aggregation platform",9612000,427
+"On-demand Maids Service Provider",9612000,427
+"eCommerce Product Search Engine",9612000,427
+"Nightlife Discovery Mobile App",9612000,427
+"Premium Apparel shopping portal",9612000,427
+"Personal Diagnostic Mobile App",9612000,427
+"Online Movie Review Platform",9612000,427
+"Diagnostic Labs aggregator platform",9612000,427
+"Online City & Lifestyle Guide",9612000,427
+"Online Medical Diagnostic",9612000,427
+"Digital Marketing Services",8971200,440
+"Ridesharing Mobile app",8330400,441
+"coupons and cashback aggregator app",8010000,442
+"Social Network for Artists",7689600,443
+"Video Streaming",7689600,443
+"On Demand Laundry Services App",7048800,445
+"On Demand Mobile app developer",6408000,446
+"Car Maintenance & Management mobile app",6408000,446
+"Cab Sharing service Mobile app",6408000,446
+"Social platform for traders and investors",6408000,446
+"Healthcare Services Discovery platform",6408000,446
+"Cloud Based Collaboration platform",6408000,446
+"Travel Destination Discovery platform",6408000,446
+"Home Made Food Marketplace",6408000,446
+"FinTech Startup Incubation platform",6408000,446
+"ECommerce Brandsâ€™ Full Service Agency",6408000,446
+"Gym & Fitness Studios Subscription platform",6408000,446
+"Subscription based Online Grocery platform",6408000,446
+"Picture based Social App",6408000,446
+"on-Demand Washing & Dry-Cleaning",6408000,446
+"Industrial Supplies B2B ecommerce",6408000,446
+"Online Car Rental Affiliates",6408000,446
+"Fund Raising Platform",6408000,446
+"proximity marketing & Mobile Advertising platform",5126400,463
+"Food Ordering & Delivery App",4934160,464
+"Raw Meat & Ready to eat food etailer",4934160,464
+"Location based Nightlife recommendationÂ  Platform",4934160,464
+"Developer Portfolio Showcase platform",4485600,467
+"Personalized Wish List creator app",3204000,468
+"Coupon Aggregator Platform",1281600,469
+Auto,0,470
+BFSI,0,470
+"Consumer Interne",0,470
+"Brand Licensing Startup",0,470
+"Gourmet Food Discovery & Delivery platform",0,470
+"Health, Wellness & Beauty Services App",0,470
+"Womens Fashion Wear Portal",0,470
+"Product Learning platform",0,470
+"Social Learning Platform",0,470
+"Social Fitness platform",0,470
+"Splitting Bills Mobile App",0,470
+"IOT Energy Management Analytics platform",0,470
+"eLearning platform",0,470
+"Cloud Enterprise Mobility Platform",0,470
+"Online Shopping Assistant Mobile app",0,470
+"Chat based personal Assistant App",0,470
+"eCommerce returns etailer",0,470
+"Holiday Resort Chain",0,470
+"Citizens Engagement Platform",0,470
+"Indoor Navigation & Analytics Solutions",0,470
+"Hyperlocal On-Demand Household Services platform",0,470
+"ECommerce Website Creation SAAS platform",0,470
+"Interface development platform for Government officials",0,470
+"Private Jet Bookings Marketplace",0,470
+"Event Venue Booking Platform",0,470
+"Digital Media Platform",0,470
+"Online Renting platform",0,470
+"Online marketplace for Chef Meals",0,470
+"ECommerce platform solutions",0,470
+"Online Media Publication",0,470
+"Bike, Appliances Renting marketplace",0,470
+"Online Marketplace for Industrial Goods",0,470
+"Reward points mobile app",0,470
+"Content Discovery & reward points platform",0,470
+"Digital Coupons, Deal & Cashback aggregator app",0,470
+"Furniture and appliances rental platform",0,470
+"Real Estate focused Tech platform",0,470
+"hyperlocal online Services platform",0,470
+"WiFi â€“ first Cloud communication platform",0,470
+"Voice Call incentivization mobile app",0,470
+"Selfie Mobile App",0,470
+"Online Reputation Management Platform",0,470
+"affordable Personal Healthcare Products",0,470
+"Product Customization Platform",0,470
+"Talent platform for Fashion professionals",0,470
+"Hyperlocal Logistics Service Provider",0,470
+"On Demand Laundry Service platform",0,470
+"Home Improvement Service platform",0,470
+"Express local delivery platform",0,470
+"On-Demand Local Logistics provider",0,470
+"Curated Freelancer Marketplace",0,470
+"Online Taxi Rental Platform",0,470
+"Online Gourmet Food Marketplace",0,470
+"ecommerce related software product platform",0,470
+"Home Healthcare Services platform,",0,470
+"Automotive Services platform",0,470
+"Big Data Analytics Platform",0,470
+"Content Management Software Solutions",0,470
+"Online Lending Marketplace",0,470
+"On Demand Beauty Services Platform",0,470
+"Education Content etailer",0,470
+"Clud based Learning platform",0,470
+"Talent Exchange & Talent Services Marketplace",0,470
+"Mobile Application Developer",0,470
+"extra curricular activities marketplace app",0,470
+"Hyperlocal Online Home services provider",0,470
+"Easy Business Loans platform",0,470
+"Performance based Wholesale Marketplace",0,470
+"Professional Services Marketplace",0,470
+"bus ticketing and fleet management platform",0,470
+"Online Income Tax Filing platform",0,470
+"multi-sport program for preschoolers",0,470
+"Organic Food etailer",0,470
+"Product Discovery & comparison App",0,470
+"Online Apparels Fashion brand",0,470
+"Hotel Mobile CRM Software platform",0,470
+"Doctors Network Mobile App",0,470
+"360-degree view creating platform",0,470
+"Online P2P lending marketplace",0,470
+"B2B marketplace for industrial goods",0,470
+"global community for travellers",0,470
+"Prepaid Bill manager App",0,470
+"Music Streaming mobile app",0,470
+"Gym Discovery platform",0,470
+"Online Purchase rewards app",0,470
+"Home rental platform",0,470
+"Crowdsourced Delivery platform",0,470
+"Real Estate Insights platform",0,470
+"Startup Funding Marketplace",0,470
+"Order Fulfillment SAAS platform",0,470
+"Gourmet Meals Delivery",0,470
+"Healthy Meals Food delivery platform",0,470
+"Personalized Stock Intelligence Platform",0,470
+"Psychometric Test Online Software",0,470
+"Online user engagement platform",0,470
+"Online Grocery Store",0,470
+"Investment management platform",0,470
+"Industrial Toons Marketplace",0,470
+"Artificial Intelligence Ecommerce Chatbot",0,470
+"Truck Aggregator & Logistics service",0,470
+"Payment Services platform",0,470
+"Doctor consultancy Mobile App",0,470
+"Beauty & Wellness Services Marketplace",0,470
+"Smart Report Cards for Schools",0,470
+"Teacher empowerment platform",0,470
+"pre-used luxury item Marketplace",0,470
+"Home Design & DÃ©cor platform",0,470
+"Online Bus & Cab ticketing platform",0,470
+"Prepaid Mobile Bill Manager App",0,470
+"Home Fitting & Fixtures Marketplace",0,470
+"ECommerce Data Analytics Platform",0,470
+"Designer Merchandize Marketplace",0,470
+"Hyperlocal Delivery Platform",0,470
+"Food discovery & table booking app",0,470
+"Financial Products lead generation platform",0,470
+"Sustainable Agri-inputs Firm",0,470
+"Pre-owned games Marketplace",0,470
+"Content-based Subscription eCommerce platform",0,470
+"Healthcare Consulting platform",0,470
+"Stock Market Portal",0,470
+"online meal-booking platform for train travelers",0,470
+"Ecommerce Product recommendation platform",0,470
+"Activity Based Social Network",0,470
+"Consumer lending marketplace",0,470
+"Local Mobile OS",0,470
+"Tech-enabled learning",0,470
+"on-demand home beauty and wellness portal",0,470
+"Self Driven Car rental",0,470
+"Energy & Environment Online Marketplace",0,470
+"Rental Accomodation finder",0,470
+"Luxury Apparel rental",0,470
+"anonymous bulletin board app",0,470
+"Travel community platform",0,470
+"Car & Bike ecommerce platform",0,470
+"Energy saving solutions provider",0,470
+"Self-Storage Spaces",0,470
+"Grocery retail Mobile app",0,470
+"Machine Learning Platform",0,470
+"Digital Marketing automation solution",0,470
+"On-Demand Beauty Services",0,470
+"Startup Focused Online Publisher",0,470
+"App based Fitness coaching",0,470
+"On demand cleaning & fixing services",0,470
+"Beauty & Lifestyle platform",0,470
+"Location based engagement & rewards platform",0,470
+"Online Identity Verification Services platform",0,470
+"Fashion Search & Review Platform",0,470
+"pre-owned Luxury online apparel seller",0,470
+"Scientific Horoscope Online Assistance platform",0,470
+"Tech enabled AC bus service",0,470
+"solar products and services marketplace",0,470
+"Private Cloud Networks SAAS platform",0,470
+"Education Marketplace",0,470
+"Cloud Based Hotel Sales Platform",0,470
+"online recipe sharing platform",0,470
+"Digital Media publishing platform",0,470
+"Big Data & predictive Analysis Platform",0,470
+"Business IT Intelligence Services",0,470
+"Ed-Tech Platform",0,470
+"Cab rental Mobile app",0,470
+"Mobile Fitness Marketplace",0,470
+"P2P Pre-owned goods marketplace",0,470
+"Online Tailoring Services",0,470
+"Rail Ticket Confirmation predictor",0,470
+"Hyperlocal Goods marketplace",0,470
+"Financial Tech",0,470
+"Food Discovery App",0,470
+"Fashion Info Aggregator App",0,470
+"Online Study Notes Marketplace",0,470
+"Online Grocery Delivery",0,470
+"Live video streaming app",0,470
+"Online Hiring Platform",0,470
+"Casual Dating App",0,470
+"Private Jet/ Helicopter Marketplace",0,470
+"Ethnic/ Traditional Fashion Store",0,470
+"B2B logistics delivery platform",0,470
+"Logistics Automation Platform",0,470
+"On-Demand Laundry & Dry cleaning App",0,470
+"On-Demand Car services App",0,470
+"Online Curated Holiday package bookings",0,470
+"Beauty and Wellness Platform",0,470
+"Used two-wheeler Marketplace",0,470
+"Tech-enabled Rural Healthcare Services",0,470
+"Engineering Innovations",0,470
+"P2P Payments platform",0,470
+"Women Lifestyle Marketplace",0,470
+"Artist / Designer Marketplace",0,470
+"Online Printing Services",0,470
+"Travel Guide Mobile App",0,470
+"Skill Training & Placement Platform",0,470
+"online tiffin service aggregator",0,470
+"Electronic Goods recycling service",0,470
+"Parents & Kids Online platform",0,470
+"On-Demand Logistics Service",0,470
+"Health & Fitness App",0,470
+"Travel Search Engine",0,470
+"Brain Games Platform",0,470
+"Algorithmic Match Making Platform",0,470
+"Science Learning App",0,470
+"Beauty services Mobile Marketplace",0,470
+"Online Lingerie platform",0,470
+"Railways Information Mobile app",0,470
+"Hyperlocal grocery delivery",0,470
+"Speech Recognition Solutions",0,470
+"Service-On-Demand Mobile App",0,470
+"Intelligent Data Analytics",0,470
+"Online Office Rental",0,470
+"Online News Media",0,470
+"Enterprise Communication Platform",0,470
+"Online Travel Planning",0,470
+"Rooftop Solar Plants",0,470
+"Online Car Portal",0,470
+"Payments Solution Provider",0,470
+"Weight Management Service",0,470
+"Mobile Health Tech",0,470
+"On-Demand Handyman Services",0,470
+"Beauty & Wellness Mobile App",0,470
+"Restaurant reservation app",0,470
+"Spam Call block App",0,470
+"Clean Tech",0,470
+"Online Furniture ecommerce",0,470
+"Mobile Food Ordering app",0,470

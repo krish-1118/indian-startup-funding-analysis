@@ -1,0 +1,692 @@
+industryvertical,"COUNT(DISTINCT year)"
+ECommerce,3
+"Consumer Internet",2
+Education,2
+Finance,2
+"Food & Beverage",2
+Healthcare,2
+Logistics,2
+Others,2
+Technology,2
+"360-degree view creating platform",1
+"3D Printer Manufacturer",1
+"Activity Based Social Network",1
+"Advertising & Marketing Community Networking platform",1
+"Affordable Education",1
+"Affordable Hotel Booking Online",1
+"affordable Personal Healthcare Products",1
+"Algorithmic Match Making Platform",1
+"Alternate Mobile Monetization platform",1
+"anonymous bulletin board app",1
+"API Workflow platform",1
+"App Analytics platform",1
+"App based Bus Pooling Services",1
+"App based Fitness coaching",1
+"App securityÂ  testing platform",1
+"Architectural Design & Consulting",1
+"Artificial Intelligence Ecommerce Chatbot",1
+"Artificial Intelligence platform",1
+"Artist / Designer Marketplace",1
+"Asset Financing platform",1
+Auto,1
+"Auto Insurance Online platform",1
+"Auto Rickshaw based Logistics",1
+"Auto Rickshaw Based Services",1
+"Automated Storage & Warehousing Solution",1
+"Automotive Services platform",1
+"Autorickshaw Aggregator & Booking platform",1
+"B2B eCommerce Marketplace",1
+"B2B logistics delivery platform",1
+"B2B marketplace for industrial goods",1
+"B2B Merchandize platform",1
+"B2B Mobile Auction Marketplace",1
+"B2C Messaging App",1
+"Banking Analytics Platform",1
+"Beauty & Lifestyle Mobile Marketplace",1
+"Beauty & Lifestyle platform",1
+"Beauty & Wellness Mobile App",1
+"Beauty & Wellness Products e-tailer",1
+"Beauty & Wellness Services Marketplace",1
+"Beauty and Wellness Marketplace",1
+"Beauty and Wellness platform",1
+"Beauty services Mobile Marketplace",1
+"Bespoke Merchandize Marketplace",1
+BFSI,1
+"Big Data & Analytics platform",1
+"Big Data & predictive Analysis Platform",1
+"Big Data Analytics Platform",1
+"Big Data Management Platform",1
+"Bike Rental Platform",1
+"Bike, Appliances Renting marketplace",1
+"Brain Games Platform",1
+"Brand Licensing Startup",1
+"Branded Budget Hotel Marketplace",1
+"Branded Food products online sales",1
+"Budget Accommodation aggregator",1
+"Budget Accommodation Platform",1
+"Budget Hotels Aggregator",1
+"Bus Aggregation and rental mobile app",1
+"bus ticketing and fleet management platform",1
+"business expense management",1
+"Business intelligence & Analytics",1
+"Business IT Intelligence Services",1
+"Business Messaging App",1
+"Cab Booking app platform",1
+"Cab rental Mobile app",1
+"Cab search Comparison & Booking platform",1
+"Cab Sharing service Mobile app",1
+"Car & Bike ecommerce platform",1
+"Car Maintenance & Management mobile app",1
+"Career Community for Women",1
+"Career Development",1
+"Casual Dating App",1
+"Casual Dining restaurant Chain",1
+"Celebrity Fashion Brand",1
+"Chain of Tea CafÃ©â€™s",1
+"character merchandize sales platform",1
+"Chat based personal Assistant App",1
+"Chinese food delivery",1
+"Citizens Engagement Platform",1
+"Clean Tech",1
+"Clinical Genomics Provider",1
+"Cloud Based Collaboration platform",1
+"Cloud Based Hotel Sales Platform",1
+"Cloud Data Integration Platform",1
+"Cloud Enterprise Mobility Platform",1
+"Cloud Enterprise Software",1
+"Cloud-based Hotel Booking Platform",1
+"Clud based Learning platform",1
+"Community Driven News/Views Platform",1
+"Competitive exam learning platform",1
+"Consumer Interne",1
+"Consumer lending marketplace",1
+"Contact Center Software Platform",1
+"Content Discovery & reward points platform",1
+"Content Management Software Solutions",1
+"Content-based Subscription eCommerce platform",1
+"conversational commerce mobile app",1
+"Corporate Wellness App",1
+"Coupon Aggregator Platform",1
+"coupons and cashback aggregator app",1
+"Credit Card Fraud protection solutions",1
+"Credit Management Services",1
+"Cricket Management Mobile Game",1
+"CRM / Analytics platform",1
+"Cross-channel CRM platform",1
+"Cross-device retargeting platform",1
+"Crowd funding platform",1
+"Crowdsourced Delivery platform",1
+"Curated Freelancer Marketplace",1
+"Custom Furniture Marketplace",1
+"Custom Made furniture e-tailer",1
+"Custom Merchandize platform",1
+"Customer Engagement Platform",1
+"Dairy Based Product Manufacturer",1
+"Data Analytics Platform",1
+"Data Center Software platform",1
+"Data Driven Publishing platform",1
+"Data Driven recruitment recommendation",1
+"Data Science & UX design Learning platform",1
+"Deep Learning Cloud Algorithms",1
+"Delivery & Logistics Service provider",1
+"Dental Clinic chain",1
+"Designer fashion Jewellery Marketplace",1
+"Designer Merchandize Marketplace",1
+"Developer Portfolio Showcase platform",1
+"Device Repair Svcs",1
+"Diagnostic Labs aggregator platform",1
+"Digital / Mobile Wallet",1
+"Digital & Physical Publishing platform",1
+"Digital Analytics Platform",1
+"Digital Coupons, Deal & Cashback aggregator app",1
+"Digital Healthcare",1
+"Digital Intelligent learning platform",1
+"Digital Marketing automation solution",1
+"Digital Marketing Services",1
+"Digital Media Platform",1
+"Digital Media publishing platform",1
+"Digital Signal processing platform",1
+"Doctor consultancy Mobile App",1
+"Doctors Network Mobile App",1
+"Document Digitization platform",1
+"Domestic Help Aggregation platform",1
+"E-Learning Service Provider",1
+"Early Cancer Detection Solutions",1
+"Easy Business Loans platform",1
+"ECommerce Brandsâ€™ Full Service Agency",1
+"ECommerce Data Analytics Platform",1
+"Ecommerce Delivery locker services",1
+"Ecommerce Discount & Cashback coupons platform",1
+"ECommerce Logistics provider",1
+"Ecommerce Marketing Software Platform",1
+"ECommerce platform solutions",1
+"Ecommerce Product recommendation platform",1
+"eCommerce Product Search Engine",1
+"ecommerce related software product platform",1
+"eCommerce returns etailer",1
+"ECommerce Website Creation SAAS platform",1
+Ed-Tech,1
+"Ed-Tech Platform",1
+"Education Content etailer",1
+"Education Content Provider",1
+"Education Marketplace",1
+"Educational Board Games",1
+"Efficient Energy Management platform",1
+"eLearning platform",1
+"Electric Bike Manufacturers",1
+"Electric Scooter Manufacturer",1
+"Electronic Goods recycling service",1
+"Employee OnBoarding & Orientation platform",1
+"End to End reverse logistics Solution platform",1
+"End-to-End Lending platform",1
+"End-to-end Logistics platform",1
+"Energy & Environment Online Marketplace",1
+"Energy saving solutions provider",1
+"Engineering Innovations",1
+"engineering services company",1
+"Enterprise Communication Platform",1
+"Enterprise Marketing Automation platform",1
+"Ethnic Beverages manufacturer",1
+"Ethnic Product eCommerce",1
+"Ethnic/ Traditional Fashion Store",1
+"Event Ticketing platform",1
+"Event Venue Booking Platform",1
+"Exam Preparation Platform",1
+"Exclusive Platform for Doctors & Healthcare professionals",1
+"Express local delivery platform",1
+"extra curricular activities marketplace app",1
+"F&B sector Mobile Payment platform",1
+"Fashion Discovery platform",1
+"Fashion ECommerce",1
+"Fashion Ecommerce store",1
+"Fashion Info Aggregator App",1
+"Fashion jewelry and accessories e-tailer",1
+"Fashion Search & Review Platform",1
+"Fast food Chain Franchisee",1
+"Financial Inclusion platform",1
+"Financial Markets Software",1
+"Financial Products lead generation platform",1
+"Financial Services Platform",1
+"Financial Services Portal",1
+"Financial Tech",1
+"Fine Dining Restaurant Chain",1
+"FinTech Startup Incubation platform",1
+"Fitness Marketplace",1
+"Fitness Tracking Management Solutions",1
+"Flat rental Mobile App",1
+FMCG,1
+"Food & Beverages",1
+"Food Customer analytics platform",1
+"Food Delivery platform",1
+"Food Discovery & Delivery Mobile app",1
+"Food discovery & table booking app",1
+"Food Discovery App",1
+"Food Logistics & Delivery",1
+"Food Ordering & Delivery App",1
+"Food Subscription platform",1
+"Freight logistics platform",1
+"Fund Raising Platform",1
+"fund raising platform for startups",1
+"Furniture and appliances rental platform",1
+"Gesture based Mobile Development",1
+"global community for travellers",1
+"Global Healthcare products",1
+"Gourmet Food Discovery & Delivery platform",1
+"Gourmet Meals Delivery",1
+"Government Test Preparation platform",1
+"Grey collar Job Board",1
+"Grocery Delivery platform",1
+"Grocery retail Mobile app",1
+"Gym & Fitness Studios Subscription platform",1
+"Gym Discovery platform",1
+"Hasbro Toy Manufacturer",1
+"Health & Fitness App",1
+"Health and Beauty Services Marketplace",1
+"Health Mobile App",1
+"Health-Tech platform",1
+"Health, Wellness & Beauty Services App",1
+"Healthcare Consulting platform",1
+"Healthcare IT Solutions & services",1
+"Healthcare Mobile App",1
+"Healthcare Services Discovery platform",1
+"HealthcareService provider",1
+"Healthy Food Manufacturer",1
+"Healthy Food Online Community",1
+"Healthy Meals Food delivery platform",1
+"Hiring Analytics platform",1
+"Holiday Resort Chain",1
+"Home Cooked Food marketplace & Delivery",1
+"Home Cooked Food Order & Delivery platform",1
+"Home Design & DÃ©cor platform",1
+"Home Design & DÃ©cor solutions",1
+"Home Fitting & Fixtures Marketplace",1
+"Home Healthcare Services platform,",1
+"Home Improvement Service platform",1
+"Home Made Food Marketplace",1
+"Home rental platform",1
+"Home services marketplace",1
+"Home Stay & room rentals platform",1
+"Hotel Aggregator & booking platform",1
+"hotel booking app",1
+"Hotel Mobile CRM Software platform",1
+"Hyper local logistics platform",1
+"Hyper-Local Ecommerce",1
+"Hyper-local Online Services",1
+"Hyper-Local Online/Mobile Grocery",1
+"hyperlocal delivery platform",1
+"Hyperlocal Delivery Services",1
+"Hyperlocal Electronics repair Service",1
+"Hyperlocal food & grocery store",1
+"Hyperlocal Goods marketplace",1
+"Hyperlocal Grocery App",1
+"Hyperlocal grocery delivery",1
+"Hyperlocal Handyman services",1
+"Hyperlocal healthcare product Delivery Service provider",1
+"Hyperlocal Logistics Service",1
+"Hyperlocal Logistics Service Provider",1
+"Hyperlocal Maintenance, Repair & Cleaning services",1
+"Hyperlocal Mobile Marketplace",1
+"Hyperlocal Mobile Services Marketplace",1
+"Hyperlocal On-Demand Household Services platform",1
+"Hyperlocal Online Home services provider",1
+"hyperlocal online Services platform",1
+"Hyperlocal services marketplace",1
+"Hyperlocal Shopping App",1
+"HyperlocalÂ  Grocery Delivery Service",1
+"Indian Ethnic Crafts Etailer",1
+"Indoor Navigation & Analytics Solutions",1
+"Industrial Supplies B2B ecommerce",1
+"Industrial Tools Marketplace",1
+"Industrial Toons Marketplace",1
+"Innovative Water Solutions",1
+"Intelligent Data Analytics",1
+"Interactive Educational Games",1
+"InteractiveÂ  How-To Guides",1
+"Interface development platform for Government officials",1
+"International Hiring Platform",1
+"Internet Network Infrastructure Services",1
+"Internet of Things platform",1
+"Intra-City Logistics service",1
+"Investment management platform",1
+"IOT Energy Management Analytics platform",1
+"IT / Customer Engagement Consulting",1
+"IT infrastructure & Data Center services",1
+"Job Board",1
+"Job Search Platform",1
+"Kids Tool kit for Innovation platform",1
+"Language Learning App",1
+"Language Localization Cloud platform",1
+"Last Mile Delivery Service",1
+"Last Mile Logistics",1
+"Last Minute Hotel Booking App",1
+"Last Minute Travel Deals mobile marketplace",1
+"Lifestyle Ecommerce Portal",1
+"Live video streaming app",1
+"Local Mobile OS",1
+"Location Based App",1
+"Location based engagement & rewards platform",1
+"Location based Nightlife recommendationÂ  Platform",1
+"Logistics Automation Platform",1
+"Logistics Intelligence",1
+"Logistics service platform",1
+"Logistics Service Provider Marketplace",1
+"Logistics Services Provider",1
+"Logistics Tech",1
+"Logistics Tech Platform",1
+"Loyalty Programs & Reward Points",1
+"Luxury Apparel rental",1
+"Luxury goodsÂ  Shopping Platform",1
+"Luxury Rental Homes",1
+"Machine Learning Platform",1
+"Marketing / Advertising Automation platform",1
+"Marketplace App for Bangkok",1
+"Material Collection & Recycling",1
+"Medical Consultation & Doctor appointment booking platform",1
+"Medical Tech Instruments",1
+"Micro Finance Platform",1
+Micro-Brewery,1
+"Mobile accessories online store",1
+"Mobile App based Loan disbursement platform",1
+"Mobile App Development",1
+"Mobile App testing platform",1
+"Mobile Application Developer",1
+"Mobile based PoS solution",1
+"Mobile Car Servicing appointment app",1
+"Mobile Chat based concierge service",1
+"Mobile Commerce for Farmers",1
+"Mobile Commerce Platform",1
+"Mobile Compression Software",1
+"Mobile Fitness App",1
+"Mobile Fitness Marketplace",1
+"Mobile Food Ordering app",1
+"Mobile Game development & Design platform",1
+"Mobile Growth HackingPlatform",1
+"Mobile Health Tech",1
+"Mobile Laundry Cleaning Service",1
+"Mobile Learning Solutions",1
+"Mobile Marketing Automation Platform",1
+"Mobile Messaging Assistant App",1
+"Mobile Only Shopping Assistant",1
+"mobile payment software platform",1
+"Mobile Payments App",1
+"Mobile Point of Sale payment solution",1
+"Mobile Point of Sale solutions",1
+"Mobile Services Marketplace",1
+"mobile social network",1
+"Mobile Wallet",1
+"mobile-only tasks marketplace",1
+"Modular Furnishings Marketplace",1
+"Movie-on-demand platform",1
+"multi-sport program for preschoolers",1
+"Multilingual Test Preparation Platform",1
+"Music Streaming mobile app",1
+"Mutual Fund Investing platform",1
+"New Curation Mobile App",1
+"News Aggregator mobile app",1
+"Nightlife Discovery Mobile App",1
+"Non Profit Organization to alleviate poverty",1
+"Nonbanking finance company",1
+"Numerical Computing & Data Science Platform",1
+"Offline Tea Chain",1
+"On Demand Beauty Services Platform",1
+"On demand cleaning & fixing services",1
+"On Demand Laundry Service platform",1
+"On Demand Laundry Services App",1
+"On Demand Mobile app developer",1
+"On-Demand App based Professional service provider",1
+"On-Demand Beauty Service",1
+"On-Demand Beauty Services",1
+"On-Demand Business messaging",1
+"On-Demand Car services App",1
+"On-Demand Delivery Logistics",1
+"on-demand delivery service",1
+"On-Demand Handyman Services",1
+"on-demand healthcare marketplace",1
+"on-demand home beauty and wellness portal",1
+"On-Demand Laundry & Dry cleaning App",1
+"On-Demand Local Logistics provider",1
+"On-Demand Logistics Service",1
+"On-demand Maids Service Provider",1
+"On-demand Service marketplace",1
+"on-Demand Washing & Dry-Cleaning",1
+"OnDemandMobile Handyman Services",1
+"Online Apparels Fashion brand",1
+"Online Art Marketplace",1
+"Online Branded Furniture etailer",1
+"Online Budget Hotel Booking Service",1
+"Online budget hotel chain",1
+"Online Bus & Cab ticketing platform",1
+"Online Car Portal",1
+"Online Car Rental Affiliates",1
+"Online Certification Courses",1
+"Online City & Lifestyle Guide",1
+"Online Classifieds & Listings",1
+"Online Coffee Delivery platform",1
+"Online comparison engine",1
+"Online Consumer Lending platform",1
+"Online content platform for women",1
+"Online Counselling and psychological support platform",1
+"Online Coupon & comparison platform",1
+"Online Curated Holiday package bookings",1
+"Online Diagnostic Tests Marketplace",1
+"Online Ed-Tech Platform",1
+"Online Education Information platform",1
+"Online education marketplace",1
+"Online Education Platform",1
+"Online Fashion Aggregator",1
+"Online Fashion Video Portal",1
+"Online Finance lending platform",1
+"Online Food Community Platform",1
+"Online Food Delivery",1
+"Online Food Ordering",1
+"Online Food ordering & delivery",1
+"Online Food Ordering & Delivery platform",1
+"Online food ordering & Delivery service",1
+"Online Food Ordering Marketplace",1
+"Online Food-Tech Platform",1
+"Online Freight Services Aggregator",1
+"Online Furniture ecommerce",1
+"Online Furniture Marketplace",1
+"Online Furniture, Home Appliances Rental Platform",1
+"Online Gourmet Food Marketplace",1
+"Online Grocer",1
+"Online Grocers",1
+"Online Grocery Delivery",1
+"Online Grocery platform",1
+"Online Grocery Store",1
+"Online Health & Wellness platform",1
+"Online Hiring Platform",1
+"Online Home DÃ©cor",1
+"Online Homeopathy Clinic",1
+"Online Hotel Booking",1
+"Online Identity Verification Services platform",1
+"Online Income Tax Filing platform",1
+"Online Insurance Aggregator",1
+"Online Insurance Distribution Platform",1
+"Online Interior Designing platform",1
+"Online Jewellery etailer",1
+"Online Jewellery Store",1
+"Online Jewelry Store",1
+"Online Job skills Showcase",1
+"Online Kitchen Furniture",1
+"Online Learning Platform",1
+"Online Lending Marketplace",1
+"Online Lingerie platform",1
+"Online Loans Marketplace",1
+"Online Logistics Platform",1
+"Online marketplace for Chef Meals",1
+"Online Marketplace for Industrial Goods",1
+"Online marketplace for Photographers",1
+"online meal-booking platform for train travelers",1
+"Online Meat Ordering platform",1
+"Online Media Publication",1
+"Online Medical Diagnostic",1
+"Online Movie Review Platform",1
+"Online News Media",1
+"Online Office Rental",1
+"Online P2P lending marketplace",1
+"Online Payment Gateway",1
+"Online Pharmacy & Drug DB",1
+"Online printing marketplace",1
+"Online Printing Services",1
+"Online Product Comparison",1
+"Online Products Discovery Platform",1
+"Online Purchase rewards app",1
+"Online Real Estate Marketplace",1
+"online recipe sharing platform",1
+"Online Renting platform",1
+"Online Reputation Management Platform",1
+"Online RTI application services",1
+"Online School for Analytics learning",1
+"Online Security Platform",1
+"Online Shopping Assistant Mobile app",1
+"Online Student & Campus Social Networking platform",1
+"Online Study Notes Marketplace",1
+"Online Table Reservation",1
+"Online Tailoring Services",1
+"Online Taxi Rental Platform",1
+"online tiffin service aggregator",1
+"Online Travel Marketplace",1
+"Online Travel Planning",1
+"Online user engagement platform",1
+"Online Vehicle Spare Parts etailer",1
+"Online Wedding Marketplace",1
+"Order Fulfillment SAAS platform",1
+"Organic Food ecommerce",1
+"Organic Food etailer",1
+"P2P Payments platform",1
+"P2P Pre-owned goods marketplace",1
+"Parents & Kids Online platform",1
+"Parents focused Web Content",1
+"Payment Services platform",1
+"Payment Solutions platform",1
+"Payments Solution platform",1
+"Payments Solution Provider",1
+"Peer to Peer Lending platform",1
+"Performance based Wholesale Marketplace",1
+"Performance Optimization Platform for athletes",1
+"Personal Diagnostic Mobile App",1
+"Personalized Stock Intelligence Platform",1
+"Personalized Styling platform",1
+"Personalized Wish List creator app",1
+"Photographer Online search & booking platform",1
+"Physical Storage warehouses",1
+"Picture based Social App",1
+"Picture creation & Social mobile app",1
+"Pre-owned games Marketplace",1
+"pre-owned Luxury online apparel seller",1
+"Pre-School Chain",1
+"pre-used apparel shopping mobile app",1
+"pre-used luxury item Marketplace",1
+"Premium Apparel shopping portal",1
+"Premium Beverages",1
+"Premium dining Lounges & restaurants",1
+"Premium Loyalty Rewards Point Management",1
+"Prepaid Bill manager App",1
+"Prepaid Mobile Bill Manager App",1
+"Preventive healthcare services",1
+"Price Comparison",1
+"Private Cloud Networks SAAS platform",1
+"Private Coaching Centers",1
+"Private Jet Bookings Marketplace",1
+"Private Jet/ Helicopter Marketplace",1
+"Private Label Apparel sales",1
+"Private Label lingerie Ecommerce",1
+"Probiotic Technology Products Manufacturer",1
+"Product Customization Platform",1
+"Product Discovery & comparison App",1
+"Product discovery & recommendation platform",1
+"Product Learning platform",1
+"Professional Custom creators Marketplace",1
+"Professional Health Services Platform",1
+"Professional Service Appointment booking service",1
+"Professional Services Marketplace",1
+"Professionals & Project Search Marketplace",1
+"proximity marketing & Mobile Advertising platform",1
+"Psychometric Test Online Software",1
+"Public Commute helper App",1
+"QSR & Online delivery portal",1
+"QSR Chain",1
+"QSR Restaurant Chain",1
+"Quick Service Restaurant & Online Delivery",1
+"Quick Service Restaurant Chain",1
+"Rail Ticket Confirmation predictor",1
+"Railways Information Mobile app",1
+"Raw Meat & Ready to eat food etailer",1
+"Ready to cook packaged Foods",1
+"Real Estate",1
+"Real Estate Advisory",1
+"Real Estate Broker network App",1
+"Real Estate Broker Platform App",1
+"Real Estate focused Tech platform",1
+"Real Estate Insights platform",1
+"Real Estate Intelligence Platform",1
+"Real Estate Mobile CRM",1
+"Real Estate Rating & Analysis",1
+"Real-Time stock data platform",1
+Reality,1
+"Renewable energy solutions",1
+"Rental Accommodation Search platform",1
+"Rental Accomodation finder",1
+"residential rental management platform",1
+"Restaurant customer engagement platform",1
+"Restaurant Discount app",1
+"Restaurant Management Platform",1
+"Restaurant reservation app",1
+"Restaurant Reservation Platform",1
+"Restaurant Reviews",1
+"Reward points mobile app",1
+"Ride Sharing platform",1
+"Ridesharing Mobile app",1
+"Robotic Program learning",1
+"Rooftop Solar Plants",1
+"SaaS product intelligence platform",1
+"Sales & Productivity Software",1
+"Science Learning App",1
+"Scientific Horoscope Online Assistance platform",1
+"Self Driven Car rental",1
+"Self Driven Rental Car Platform",1
+"Self-driven Car rental",1
+"Self-driven vehicle rental",1
+"Self-Storage Spaces",1
+"Selfie Mobile App",1
+"Service-On-Demand Mobile App",1
+"Skill Training & Placement Platform",1
+"Skill Training Startup",1
+"Smart Report Cards for Schools",1
+"Smart Safety Wearable Devices",1
+"Smartwatch Maker",1
+"Social Fitness platform",1
+"Social Learning Platform",1
+"Social Network for Artists",1
+"Social platform for traders and investors",1
+"Solar Power Solutions company",1
+"solar products and services marketplace",1
+"Spa & Salon Management Software",1
+"Spam Call block App",1
+"Speech Recognition Solutions",1
+"Splitting Bills Mobile App",1
+"Sports Education Platform",1
+"Sports Management & Physical Education Business",1
+"Startup Analytics platform",1
+"Startup Focused Online Publisher",1
+"Startup Funding Marketplace",1
+"Startup funding platform",1
+"Stock Market Portal",1
+"Structural & Civil Engg Service Automation",1
+"Study Material Marketplace",1
+"Subscription based Online Grocery platform",1
+"Supply Chain & Logistics Solutions",1
+"Sustainable Agri-inputs Firm",1
+"Talent Exchange & Talent Services Marketplace",1
+"Talent platform for Fashion professionals",1
+"Taxi Rental platform",1
+"Teacher empowerment platform",1
+"Tech enabled AC bus service",1
+"Tech enabled logistics platform",1
+"Tech Platform for property brokers",1
+"Tech Recruitment platform",1
+"Tech-enabled learning",1
+"Tech-enabled Rural Healthcare Services",1
+"Tele-Shopping / eCommerce",1
+"Test Automation SAAS platform",1
+"Transportation & Logistics Platform",1
+"Travel community platform",1
+"Travel Destination Discovery platform",1
+"Travel Entertainment",1
+"Travel Guide Mobile App",1
+"Travel information portal",1
+"Travel Search Engine",1
+"Travel Tech",1
+"Truck Aggregator & Logistics service",1
+"Trucking Logistic Operations",1
+"Two-Wheeler Taxi Service",1
+"Used Bikes Marketplace",1
+"Used Car Marketplace",1
+"Used Gadgets Buy / Refurbishing",1
+"Used two-wheeler Marketplace",1
+"Used Vehicle Marketplace",1
+"Used Vehicles Marketplace",1
+"User Engagment & Analytics platform",1
+"Video Advertisement Platform",1
+"Video Intelligence Platform",1
+"Video Streaming",1
+"Viral Content web Platform",1
+"Virtual Health consultation app",1
+"Virtual Reality activity based learning platform",1
+"Virtual Reality Headset creator",1
+"virtual reality, 3d simulation and stereoscopic products",1
+"Visual Blogging platform",1
+"visual search and discovery platform",1
+"Voice Call incentivization mobile app",1
+"Warranty Programs Service Administration",1
+"Waste Management Solutions",1
+"Wealth Management Platform",1
+"Web Content Publishing",1
+"Wedding Planning Platform",1
+"Wedding Venues & Vendors Marketplace",1
+"Weight Management Service",1
+"WiFi â€“ first Cloud communication platform",1
+"Women Lifestyle Marketplace",1
+"Womens Fashion Wear Portal",1
+"Workforce Management Software",1
